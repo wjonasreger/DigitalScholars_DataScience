@@ -130,13 +130,13 @@ body {
   padding: 0 7%;
 }
 
-#syllabus h1, #exam-schedule h1, #practice-exams h1, #faqs h1, #calendar h1 {
+#course-syllabus h1, #exam-schedule h1, #practice-exams h1, #faqs h1, #course-schedule h1, #course-assignments h1, #course-resources h1 {
   font-weight: bold;
   font-size: 40px;
   color: #13294b;
 }
 
-#syllabus h2, #exam-schedule h2, #practice-exams h2, #faqs h2 {
+#course-syllabus h2, #exam-schedule h2, #practice-exams h2, #faqs h2, #course-assignments h2, #course-resources h2 {
   font-weight: bold;
   font-size: 30px;
   color: #13294b;
@@ -149,12 +149,12 @@ body {
   font-size: 20px;
 }
 
-#syllabus li {
+#course-syllabus li, #course-assignments li, #course-resources li, #course-schedule li {
   font-size: 15px;
   color: #13294b;
 }
 
-#syllabus ul {
+#course-syllabus ul, #course-assignments ul, #course-resources ul, #course-schedule ul {
   padding-left: 0;
 }
 
@@ -452,16 +452,16 @@ iframe {
     font-size: 19px;
   }
   /* Information Pages Styling */
-  #syllabus h1, #exam-schedule h1, #practice-exams h1, #calendar h1, #faqs h1 {
+  #course-syllabus h1, #exam-schedule h1, #practice-exams h1, #course-schedule h1, #faqs h1, #course-assignments h1, #course-resources h1 {
     font-size: 25px;
   }
-  #syllabus h2, #exam-schedule h2, #practice-exams h2, #faqs h2 {
+  #course-syllabus h2, #exam-schedule h2, #practice-exams h2, #faqs h2, #course-assignments h2, #course-resources h2 {
     font-size: 20px;
   }
-  #syllabus h3 {
+  #course-syllabus h3, #course-assignments h3, #course-resources h3 {
     font-size: 15px;
   }
-  #syllabus li {
+  #course-syllabus li, #course-assignments li, #course-resources li {
     font-size: 15px;
   }
   #exam-schedule h4, #practice-exams h4 {
@@ -473,7 +473,7 @@ iframe {
   .syllabus {
     width: 100%;
   }
-  .syllabus.narrow, .calendar.narrow, .faqs.narrow, .exam-schedule.narrow, .practice-exams.narrow, .Covid-19-Online-Amendments.narrow, .grade-calculator.narrow {
+  .course-syllabus.narrow, .course-schedule.narrow, .faqs.narrow, .exam-schedule.narrow, .practice-exams.narrow, .Covid-19-Online-Amendments.narrow, .grade-calculator.narrow, .course-assignments.narrow, .course-resources.narrow {
     width: 100%;
     padding-top: 5px;
   }
@@ -488,12 +488,12 @@ iframe {
     padding-bottom: 1px;
     padding-top: 25px;
   }
-  .syllabus.narrow .card, .exam-schedule.narrow .card, .practice-exams.narrow .card, .faqs.narrow .card, .Covid-19-Online-Amendments.narrow .card, .grade-calculator.narrow .card {
+  .course-syllabus.narrow .card, .exam-schedule.narrow .card, .practice-exams.narrow .card, .faqs.narrow .card, .Covid-19-Online-Amendments.narrow .card, .grade-calculator.narrow .card, .course-assignments.narrow .card, .course-resources.narrow .card {
     padding: 0 30px;
     margin-bottom: -20px;
   }
   /* Calendar Styling */
-  .calendar.narrow .card {
+  .course-schedule.narrow .card {
     padding: 0 5px;
     margin-bottom: -20px;
   }

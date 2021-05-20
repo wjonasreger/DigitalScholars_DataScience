@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: content
-title: course-Schedule
+title: course-schedule
 ---
 
 {% include course_schedule.html %}
