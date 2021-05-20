@@ -1,0 +1,103 @@
+# Semester Information (Changes from semester to semester)
+# smiley face:
+
+# rickroll: https://www.youtube.com/watch?v=wpV-gGA4PSk
+
+main-email: "stat100@illinois.edu"
+
+instructors:
+- name: "Jonas Reger"
+  email: "wreger2@illinois.edu"
+
+sections:
+- name: "Data Science"
+  type: "Online"
+  instructor: "Jonas Reger"
+  times: "9am - 1pm M-R"
+  location: "No in-person locations. Lectures and Labs will be on Zoom."
+
+# - name: ""
+#   type: "In Person"
+#   instructor: ""
+#   times: ""
+#   location: ""
+
+# Office hours
+office-hours:
+  location: "Zoom"
+  link: "https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09"
+  days: "Monday-Friday"
+  times: "2pm-5pm"
+
+# General Course Information (Doesn't change very often)
+# Course links
+links1:
+
+- title: "View Daily Announcements"
+  subtitle: "Announcements"
+  url: "#announcements"
+
+- title: "Lectures & Labs"
+  subtitle: "Zoom"
+  url: ""
+
+- title: "Code for Assignments"
+  subtitle: "Github"
+  url: ""
+
+# Data program links
+links2:
+
+- title: "Simulations"
+  url: "http://istics.net/fireman/sampling.html"
+  icon: "fas fa-calculator fa-2x"
+
+goals:
+- title: "Why everyone needs to know Basic Statistics"
+  body: "insert text"
+
+- title: "What's special about Stat 100"
+  body: "insert text"
+
+# Student experiences
+experiences:
+- text: "Read the newspaper in a new way, without their eyes glazing over when they see quantitative information."
+
+# Visit us
+visit:
+- name: "Discovery Partners Institute"
+  url: "https://dpi.uillinois.edu/"
+
+- name: "University of Illinois at Chicago"
+  url: "https://www.uic.edu/"
+
+- name: "University of Illinois at Urbana-Champaign"
+  url: "https://illinois.edu"
+
+# Course webpages
+course-link1: "https://go.illinois.edu/stat100"
+
+calculator: "https://www.amazon.com/Texas-Instruments-Scientific-Calculator-Accents/dp/B00000JBNX"
+
+
+in-person-icon: "fas fa-chalkboard-teacher fa-4x"
+online-icon: "fas fa-desktop fa-4x"
+
+rickroll: "https://www.youtube.com/watch?v=wpV-gGA4PSk"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Additional comments...

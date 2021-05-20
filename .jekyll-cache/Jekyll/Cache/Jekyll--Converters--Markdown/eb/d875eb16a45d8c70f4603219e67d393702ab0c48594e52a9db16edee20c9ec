@@ -1,0 +1,334 @@
+I"L<div class="fixed-background" style="margin-top:-5px; height:275px;">
+  <div class="row dark text-center" style="height:275px;">
+    <div class="col-12 text-center">
+      <h3 class="heading">About Us</h3>
+      <div class="heading-underline"></div>
+    </div>
+  </div>
+  <div class="fixed-wrap" style="height:275px;">
+    <div class="fixed" style="background-image: url('//assets/img/stat100desk.jpg');">
+      <div class="layer">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="about" class="offset" style="margin-top: 5px;">
+  <div class="bg-light py-4">
+    <div class="container py-4">
+      <div class="col-12 text-center">
+        <div class="text-center" style="margin-bottom: 3em;">
+          <h2 class="display-5 font-weight-light">Course Staff</h2>
+        </div>
+        <p class="lead text-left" style="font-size: 1.15em;">insert text here...</p>
+      </div>
+      <div class="row text-center">
+
+        
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+          <div class="col-xl-3 col-sm-6 mb-5">
+            <div class="staff-card bg-white rounded shadow-sm py-5 px-4"><a href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><img src="//assets/img/staff-photos/wreger2.jpg" onerror="this.src='//assets/img/staff-photos/blank_profile.png';" class="img-fluid mb-3 img-thumbnail shadow-sm" /></a>
+              <h5 class="mb-0">Jonas Reger</h5>
+              <h6 class="mb-0">Lead Instructor</h6>
+              
+                <h6 class="mb-0"><i>Statistics</i></h6>
+              
+              
+              <div class="feature">
+                <button type="button" class="btn" data-toggle="collapse" data-target="#wreger2"><i class="fas fa-chevron-circle-down fa-2x"></i></button>
+                <div id="wreger2" class="collapse">
+                  <p style="padding-top: 2em;">My name is <a href="https://wjonasreger.github.io/website/" target="_blank">Jonas</a> and I'm a senior studying statistics and mathematics. I'm the <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">Beyoncé</a> of the STAT 100 TAs!:) I completed my A.S. Computer Science degree in 2018 and soon will complete my B.S. Statistics degree this semester. I will be starting my M.S. Statistics-Analytics degree in the Fall!:) In addition to working as a TA for STAT 100, I also manage and develop the STAT 100 course website. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+
+
+        
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+          <div class="col-xl-3 col-sm-6 mb-5">
+            <div class="staff-card bg-white rounded shadow-sm py-5 px-4"><a href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><img src="//assets/img/staff-photos/thanjra2.jpg" onerror="this.src='//assets/img/staff-photos/blank_profile.png';" class="img-fluid mb-3 img-thumbnail shadow-sm" /></a>
+              <h5 class="mb-0">Tamun Hanjra</h5>
+              <h6 class="mb-0">Assistant Instructor</h6>
+              
+                <h6 class="mb-0"><i>Psychology</i></h6>
+              
+              
+              <div class="feature">
+                <button type="button" class="btn" data-toggle="collapse" data-target="#thanjra2"><i class="fas fa-chevron-circle-down fa-2x"></i></button>
+                <div id="thanjra2" class="collapse">
+                  <p style="padding-top: 2em;">My name is Tamun (tah-min) Hanjra and I am a Junior studying Psychology with a concentration in Behavioral Neuroscience and Child Developmental Psychology. I am from Northern VA, about 30 minutes out of D.C. I loved STAT 100 when I took it and was also a CA for STAT 107 after taking it in it's pilot semester, so I decided to try to get involved with being a CA for this class! Some other facts about me: I am in the Marching Illini Drumline and play the cymbals, so hopefully you can catch me on game days when they hopefully happen again. I have a dog back home whose name is Caspar and I will absolutely show you pictures. I also play the flute, love to read and have been obsessed with Tik Tok for a while now! :)</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+      
+    
+  
+    
+    
+    
+    
+  
+
+
+        
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+        
+          <div class="col-xl-3 col-sm-6 mb-5">
+            <div class="staff-card bg-white rounded shadow-sm py-5 px-4"><a href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><img src="//assets/img/staff-photos/kflan.jpg" onerror="this.src='//assets/img/staff-photos/blank_profile.png';" class="img-fluid mb-3 img-thumbnail shadow-sm" /></a>
+              <h5 class="mb-0">Karle Flanagan</h5>
+              <h6 class="mb-0">Advisor</h6>
+              
+                <h6 class="mb-0"><i>Statistics</i></h6>
+              
+              
+              <div class="feature">
+                <button type="button" class="btn" data-toggle="collapse" data-target="#kflan"><i class="fas fa-chevron-circle-down fa-2x"></i></button>
+                <div id="kflan" class="collapse">
+                  <p style="padding-top: 2em;">Hi everyone! My name is Karle and I'm one of the stat 100 instructors. I've always loved math, statistics, and education. Teaching stat 100 is the perfect job for me since I can help students from many different majors gain an appreciation for all 3.<br /><br /> A few other things about me: I'm a huge Illini fan- I went to school at UIUC, met my husband at UIUC, and now I work here. U of I is one of my favorite places in the world! I also enjoy spending time outside, playing piano, water skiing, snow skiing, and traveling.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+
+
+      </div>
+    </div>
+  </div>
+</div>
+:ET
