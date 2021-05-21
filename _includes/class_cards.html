@@ -1,9 +1,25 @@
-{% for announcement in site.data.announcements.announcements %}
+<style>
+  .imgBin {
+    position: relative;
+  }
+  .btmRight {
+    position: absolute;
+    bottom: -10px;
+    right: 15px;
+  }
+</style>
+
+{% for announcement in site.data.content.announcements %}
   {% if announcement.week == include.week %}
-  {% assign announceID = announcement.date | remove: " " %}
+  {% assign announceIDstr = announcement.date | append: announcement.type %}
+  {% assign announceID = announceIDstr | remove: " " | remove: "!" %}
     <div class="col-xl-3 col-sm-6 mb-5" style="color: #13294b;">
-      <div class="staff-card bg-white rounded shadow-sm py-5 px-4"><img src="{{ site.baseurl }}/assets/img/default.jpg" onerror="this.src='{{ site.baseurl }}/assets/img/default.png';" class="img-fluid mb-3 img-thumbnail shadow-sm">
-        <h5 class="mb-0">{{ announcement.date }}</h5>
+      <div class="staff-card bg-white rounded shadow-sm py-3 px-2">
+        <div class="imgBin">
+          <img src="{{ site.baseurl }}/assets/img/default.jpg" onerror="this.src='{{ site.baseurl }}/assets/img/default.png';" class="img-fluid mb-3 img-thumbnail shadow-sm">
+          <div class="btmRight">{{ announcement.date }}</div>
+        </div>
+        <h5 class="mb-0">{{ announcement.type }}</h5>
         <h6 class="mb-0" style="text-align: left;">{{ announcement.summary }}</h6>
         <div class="feature">
           <button type="button" class="btn" data-toggle="collapse" data-target="#{{ announceID }}"><i class="fas fa-chevron-circle-down fa-2x"></i></button>

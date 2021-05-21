@@ -1,0 +1,383 @@
+announcements:
+- date: "July 1"
+  week: "1"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Measures of Center and Spread</li>
+      <li>Boolean Logic and Conditionals</li>
+    </ol>
+  text: "<i>More details forthcoming...</i>"
+
+- date: "June 30"
+  week: "1"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Confounders and Observational Studies</li>
+      <li>Simpson's Paradox and Stratification</li>
+    </ol>
+  text: "<i>More details forthcoming...</i>"
+
+- date: "June 29"
+  week: "1"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Experimental Design & Row Selection (pandas)</li>
+      <li>Blocking and Conditionals</li>
+    </ol>
+  text: "<i>More details forthcoming...</i>"
+
+- date: "June 28"
+  week: "1"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Welcome to Digital Scholars Data Science!</li>
+      <li>Data Science Tools</li>
+    </ol>
+  text: "<i>More details forthcoming...</i>"
+
+- date: "June 14"
+  week: "1"
+  type: "Welcome!"
+  summary: >-
+    <ol>
+      <li>Welcome to Digital Scholars Data Science!</li>
+    </ol>
+  text: "Our first lecture is <b>Monday, June 28th</b> at <b>10am CST</b> after the Guest Speaker at 9am CST. We will meet via Zoom at the link above. See you there!:)"
+
+# Course Schedule
+schedule:
+- date: "June 28"
+  week: "1"
+  name1: "Welcome to Digital Scholars Data Science!"
+  content1: >-
+    <ul>
+      <li>Hello Survey</li>
+      <li>Lecture Slides</li>
+      <li>Lecture Handout</li>
+    </ul>
+  name2: "Data Science Tools"
+  content2: >-
+    <ul>
+      <li>Lecture Slides</li>
+      <li>Lecture Handout</li>
+      <li>Hello Survey Dataset</li>
+    </ul>
+  name3: "Lab"
+  content3: ""
+
+- date: "June 29"
+  week: "1"
+  name1: "Experimental Design & Row Selection (pandas)"
+  content1: ""
+  name2: "Blocking and Conditionals"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "June 30"
+  week: "1"
+  name1: "Confounders and Observational Studies"
+  content1: ""
+  name2: "Simpson's Paradox and Stratification"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 1"
+  week: "1"
+  name1: "Measures of Center and Spread"
+  content1: ""
+  name2: "Boolean Logic and Conditionals"
+  content2: ""
+  name3: "Lab: You and Data Science"
+  content3: ""
+
+- date: "July 5"
+  week: "2"
+  name1: "Grouping Data (pandas) I"
+  content1: ""
+  name2: "Grouping Data (pandas) II"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 6"
+  week: "2"
+  name1: "Bar Graphs and Histograms"
+  content1: ""
+  name2: "Quartiles and Boxplots"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 7"
+  week: "2"
+  name1: "Algorithms to Solve Complex Systems"
+  content1: ""
+  name2: "Intro to Probability + Monty Hall"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 8"
+  week: "2"
+  name1: "Probability, Birthday Problem, and Control Flow"
+  content1: ""
+  name2: "Loops in Python + Addition Rule"
+  content2: ""
+  name3: "Lab: You and Data Science"
+  content3: ""
+
+- date: "July 12"
+  week: "3"
+  name1: "Addition Rule + Conditional Probability"
+  content1: ""
+  name2: "Functions in Python and Conditional Probability"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 13"
+  week: "3"
+  name1: "Bayes Rule"
+  content1: ""
+  name2: "Simulation Analysis + Images"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 14"
+  week: "3"
+  name1: "Discrete Random Variables, Bernoulli, and Binomial"
+  content1: ""
+  name2: "Normal Approximation"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 15"
+  week: "3"
+  name1: "Central Limit Theorem"
+  content1: ""
+  name2: "Sampling"
+  content2: ""
+  name3: "Lab: You and Data Science"
+  content3: ""
+
+- date: "July 19"
+  week: "4"
+  name1: "Confidence Intervals"
+  content1: ""
+  name2: "Lists and Dictionaries"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 20"
+  week: "4"
+  name1: "CLT + Polling + Scatterplots"
+  content1: ""
+  name2: "Scatterplots, Correlation, Simple Regression"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 21"
+  week: "4"
+  name1: "Residuals, RMSE, Regression in Python"
+  content1: ""
+  name2: "Residuals + RMSE"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 22"
+  week: "4"
+  name1: "RMSE and Clustering"
+  content1: ""
+  name2: "K-Means Clustering"
+  content2: ""
+  name3: "Lab: You and Data Science"
+  content3: ""
+
+- date: "July 26"
+  week: "5"
+  name1: "Hypothesis Testing"
+  content1: ""
+  name2: "Z Tests in Python"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 27"
+  week: "5"
+  name1: "2 Sample Z Test"
+  content1: ""
+  name2: "t-tests"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 28"
+  week: "5"
+  name1: "Distance Metrics"
+  content1: ""
+  name2: "Clustering"
+  content2: ""
+  name3: "Lab"
+  content3: ""
+
+- date: "July 29"
+  week: "5"
+  name1: "Normalization and Neural Networks"
+  content1: ""
+  name2: "Storytelling and Data Visualization"
+  content2: ""
+  name3: "Lab: You and Data Science"
+  content3: ""
+
+
+# Labs
+labs:
+- name: "<b>lab_similarity</b>: Similarity"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_hypothesis-tests</b>: Hypothesis Tests"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_kmeans</b>: K-Means Clustering"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_regression</b>: Regression"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_lists</b>: Lists"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_clt</b>: CLT"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_random-variable</b>: Random Variable"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_birthday</b>: Birthday"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_simulation</b>: Simulation"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_plots</b>: Plots"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_gpa</b>: GPA"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_simpsons-paradox</b>: Simpson's Paradox"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_pandas</b>: Getting Started with Pandas"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>lab_intro</b>: Introduction to Data Science"
+  link: ""
+  due: ""
+  text: ""
+  
+# Homeworks
+homeworks:
+- name: "<b>Homework 11</b>: Probability and Simulation III"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 10</b>: Probability and Simulation II"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 9</b>: Probability and Simulation I"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 8</b>: Quartiles and Boxplots"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 7</b>: groupby and Center and Spread II"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 6</b>: Center and Spread"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 5</b>: Privacy and Data Science"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 4</b>: Python Conditionals with Pandas"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 3</b>: Causal Links and Confounders"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 2</b>: Blocking and Python Conditionals"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "<b>Homework 1</b>: Experimental Design and Basic Python"
+  link: ""
+  due: ""
+  text: ""
+
+# Projects
+projects:
+- name: "Image Mosaic"
+  link: ""
+  due: ""
+  text: ""
+
+- name: "You and Data Science"
+  link: ""
+  due: ""
+  text: ""

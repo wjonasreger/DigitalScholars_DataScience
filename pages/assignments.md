@@ -8,12 +8,33 @@ title: course-assignments
 
 ## Labs
 <hr/>
-* Lab 1
+{% for item in site.data.content.labs %}
+<ul>
+    <li><a href="{{ item.link }}" target="_blank">{{ item.name }}</a> (Due: {{ item.due }})
+    {% if item.text != "" %}
+    <p>{{ item.text }}</p>
+    {% endif %}</li>
+</ul>
+{% endfor %}
 
 ## Homeworks
 <hr/>
-* Homework 1
+{% for item in site.data.content.homeworks %}
+<ul>
+    <li><a href="{{ item.link }}" target="_blank">{{ item.name }}</a> (Due: {{ item.due }})
+    {% if item.text != "" %}
+    <p>{{ item.text }}</p>
+    {% endif %}</li>
+</ul>
+{% endfor %}
 
 ## Projects
 <hr/>
-* Project 1
+{% for item in site.data.content.projects %}
+<ul>
+    <li><a href="{{ item.link }}" target="_blank">{{ item.name }}</a> (Due: {{ item.due }})
+    {% if item.text != "" %}
+    <p>{{ item.text }}</p>
+    {% endif %}</li>
+</ul>
+{% endfor %}

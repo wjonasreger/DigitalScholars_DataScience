@@ -1,7 +1,6 @@
 title: "Digital Scholars<br>Data Science"
 short-title: Data Science
-description: >- # this means to ignore newlines until "baseurl:"
-  insert text here...
+description: "Digital Scholars Data Science is an introduction to topics that intersect between statistics, computation, and real-world applications. This 5-week-long course will be project-driven, which will give students opportunities to analyze real-world datasets and discover the impact of the data. Students will gain an understanding of complex ideas in statistics and computing, and consider the social impact and issues of Data Science such as privacy and design."
 baseurl: "/DigitalScholars_DataScience" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
