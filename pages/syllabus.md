@@ -17,7 +17,7 @@ Digital Scholars Data Science is an introduction to topics that intersect betwee
     * 10-11am Lecture/Discussion Part I
     * 11am-12pm Lecture/Discussion Part II
     * 12-1pm Lab/Discussion
-The schedule might vary for each day depending on the lesson material being covered (i.e. sometimes there may be 2 hours of Lab/Discussion instead). Jonas and Tamun will be here for the 10am-1pm portion to lead the lectures and labs (one of us will be here for the guest speaker portion). We will also take a short break in between hours if needed.
+* The schedule might vary for each day depending on the lesson material being covered (i.e. sometimes there may be 2 hours of Lab/Discussion instead). Jonas and Tamun will be here for the 10am-1pm portion to lead the lectures and labs (one of us will be here for the guest speaker portion). We will also take a short break in between hours if needed.
 
 ## Instrctor Contact Information
 
