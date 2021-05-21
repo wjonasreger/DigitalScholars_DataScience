@@ -55,3 +55,5 @@ Any modern version of git works. We will first check if you have git and install
 2. Download and install the latest Windows installer.
 
 3. After the install finishes, exit your command prompt, re-launch it, and verify it installed by following the steps above.
+
+*Modified from <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/windows-setup/">Wade Fagen-Ulmschneider & Karle Flanagan’s STAT 107 - Fall 2019/Spring 2020 guides</a> with permission.*

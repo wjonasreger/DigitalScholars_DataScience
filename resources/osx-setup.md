@@ -61,3 +61,5 @@ Any modern version of git works. We will first check if you have git and install
 2. Download and install the latest Mac OS X installer. You may need to Ctrl+Click to install it.
 
 3. After the install finishes, verify it installed by following the steps above.
+
+*Modified from <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/osx-setup/">Wade Fagen-Ulmschneider & Karle Flanagan’s STAT 107 - Fall 2019/Spring 2020 guides</a> with permission.*

@@ -55,3 +55,5 @@ In addition to moving “forward” or “deeper” into your directories, the s
 
 * Moves into `datascience` from your Desktop (one level deeper): cd `datascience`
 * Moves back to your Desktop from `datascience` (one level shallower): `cd ..`
+
+*Modified from <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/cli/">Wade Fagen-Ulmschneider & Karle Flanagan’s STAT 107 - Fall 2019/Spring 2020 guides</a> with permission.*

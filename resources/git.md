@@ -58,3 +58,5 @@ If you are using Windows 10 and getting “invalid credentials”:
 
 ## Assignment Setup
 Each assignment will provide specific instructions on how to use git to fetch and submit your work.
+
+*Modified from <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/git/">Wade Fagen-Ulmschneider & Karle Flanagan’s STAT 107 - Fall 2019/Spring 2020 guides</a> with permission.*
