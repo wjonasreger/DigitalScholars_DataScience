@@ -62,7 +62,7 @@
     <div class="fixed-background" style="margin-top:-5px; height:275px;">
   <div class="row dark text-center" style="height:275px;">
     <div class="col-12 text-center">
-      <h3 class="heading">course assignments</h3>
+      <h3 class="heading">setting up git</h3>
       <div class="heading-underline"></div>
     </div>
   </div>
@@ -76,153 +76,85 @@
 
 
 <!-- Start of Syllabus Section -->
-<div id="course-assignments" class="offset">
+<div id="setting-up-git" class="offset">
   <div class="jumbotron" style="margin-top:5px;">
-    <div class="course-assignments narrow" style="margin-top: -25px;">
+    <div class="setting-up-git narrow" style="margin-top: -25px;">
       <div class="card bg-white rounded shadow-sm py-5 py-4">
-        <h2 id="labs">Labs</h2>
+        <h2 id="setting-up-git-for-data-science">Setting Up git for Data Science</h2>
+<p>To set up git, there are certain commands you will run:</p>
+
+<ol>
+  <li>Once for the entire semester (“Course Setup”),</li>
+  <li>Once for each computer you use (“Computer Setup”),</li>
+  <li>Once each time you work on Data Science assignments (“Assignment Setup”)</li>
+</ol>
+
 <hr />
 
-<ul>
-    <li><a href="" target="_blank"><b>lab_similarity</b>: Similarity</a> (Due: )
-    </li>
-</ul>
+<h2 id="course-setup">Course Setup</h2>
+<p>To begin to work on assignments and turn in work, you will need to create a git repository for the course.</p>
 
 <ul>
-    <li><a href="" target="_blank"><b>lab_hypothesis-tests</b>: Hypothesis Tests</a> (Due: )
-    </li>
+  <li>Follow the link below to create your repository. You <strong>DO NOT</strong> need to go to the link given to you, you will use that link later in Step 3.</li>
+  <li>Visit: <a href="" target="_blank">https://edu.cs.illinois.edu/create-ghe-repo/stat107-sp20/</a></li>
 </ul>
 
-<ul>
-    <li><a href="" target="_blank"><b>lab_kmeans</b>: K-Means Clustering</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_regression</b>: Regression</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_lists</b>: Lists</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_clt</b>: CLT</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_random-variable</b>: Random Variable</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_birthday</b>: Birthday</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_simulation</b>: Simulation</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_plots</b>: Plots</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_gpa</b>: GPA</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_simpsons-paradox</b>: Simpson's Paradox</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_pandas</b>: Getting Started with Pandas</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_intro</b>: Introduction to Data Science</a> (Due: )
-    </li>
-</ul>
-
-<h2 id="homeworks">Homeworks</h2>
 <hr />
 
-<ul>
-    <li><a href="" target="_blank"><b>Homework 11</b>: Probability and Simulation III</a> (Due: )
-    </li>
-</ul>
+<h2 id="computer-setup">Computer Setup</h2>
+<ol>
+  <li>
+    <p>On your computer, go to <strong>your Desktop</strong> (you may need to minimize some windows) and create a <code class="highlighter-rouge">datascience</code> folder on your Desktop</p>
+  </li>
+  <li>Now, going back and <strong>using your command line</strong>, run the following commands to navigate into your <code class="highlighter-rouge">datascience</code> folder:
+    <ul>
+      <li><code class="highlighter-rouge">cd Desktop</code></li>
+      <li><code class="highlighter-rouge">cd datascience</code></li>
+    </ul>
+  </li>
+  <li><strong>Clone</strong> a local copy of your git repository with the following command (making sure to replace <code class="highlighter-rouge">YOUR-GIT-REPO-URL</code> with the URL from the “Course Setup” above):
+    <ul>
+      <li><code class="highlighter-rouge">git clone YOUR-GIT-REPO-URL</code></li>
+    </ul>
+  </li>
+  <li>Navigate into your git directory by going into your NetID-named folder:
+    <ul>
+      <li><code class="highlighter-rouge">cd NETID</code></li>
+    </ul>
+  </li>
+  <li>Set up a connection to the <code class="highlighter-rouge">_release</code> repository where code will be released for you:
+    <ul>
+      <li>If the command worked, nothing will show up when you run this command. <em>(No output means no error! :))</em></li>
+      <li>If you are not sure, you can run it again and it will say that “the remote already exists”.
+        <ul>
+          <li><code class="highlighter-rouge">git remote add release https://github-dev.cs.illinois.edu/stat107-sp20/_release.git</code></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Let git know who you are <strong>REPLACE YOUR NAME and EMAIL with your name/email</strong>:
+    <ul>
+      <li><code class="highlighter-rouge">git config user.name "Your Name"</code></li>
+      <li><code class="highlighter-rouge">git config user.email "netid@illinois.edu"</code></li>
+    </ul>
+  </li>
+</ol>
 
-<ul>
-    <li><a href="" target="_blank"><b>Homework 10</b>: Probability and Simulation II</a> (Due: )
-    </li>
-</ul>
+<h3 id="common-setup-errors">Common Setup Errors</h3>
 
-<ul>
-    <li><a href="" target="_blank"><b>Homework 9</b>: Probability and Simulation I</a> (Due: )
-    </li>
-</ul>
+<h4 id="windows-10---invalid-credentials">Windows 10 - “Invalid Credentials”</h4>
+<p>If you are using Windows 10 and getting “invalid credentials”:</p>
 
-<ul>
-    <li><a href="" target="_blank"><b>Homework 8</b>: Quartiles and Boxplots</a> (Due: )
-    </li>
-</ul>
+<ol>
+  <li>In your Start menu, type “Credential Manager” and run it.</li>
+  <li>Inside of the credential manager, click “Windows Credentials”</li>
+  <li>Under “Generic Credentials”, find <strong>github-dev.cs.illinois.edu</strong> and edit your password.</li>
+</ol>
 
-<ul>
-    <li><a href="" target="_blank"><b>Homework 7</b>: groupby and Center and Spread II</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 6</b>: Center and Spread</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 5</b>: Privacy and Data Science</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 4</b>: Python Conditionals with Pandas</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 3</b>: Causal Links and Confounders</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 2</b>: Blocking and Python Conditionals</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 1</b>: Experimental Design and Basic Python</a> (Due: )
-    </li>
-</ul>
-
-<h2 id="projects">Projects</h2>
 <hr />
 
-<ul>
-    <li><a href="" target="_blank">Image Mosaic</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank">You and Data Science</a> (Due: )
-    </li>
-</ul>
+<h2 id="assignment-setup">Assignment Setup</h2>
+<p>Each assignment will provide specific instructions on how to use git to fetch and submit your work.</p>
 
       </div>
     </div>

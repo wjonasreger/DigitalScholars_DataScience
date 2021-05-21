@@ -62,7 +62,7 @@
     <div class="fixed-background" style="margin-top:-5px; height:275px;">
   <div class="row dark text-center" style="height:275px;">
     <div class="col-12 text-center">
-      <h3 class="heading">course assignments</h3>
+      <h3 class="heading">data science setup for windows</h3>
       <div class="heading-underline"></div>
     </div>
   </div>
@@ -76,153 +76,103 @@
 
 
 <!-- Start of Syllabus Section -->
-<div id="course-assignments" class="offset">
+<div id="data-science-setup-for-windows" class="offset">
   <div class="jumbotron" style="margin-top:5px;">
-    <div class="course-assignments narrow" style="margin-top: -25px;">
+    <div class="data-science-setup-for-windows narrow" style="margin-top: -25px;">
       <div class="card bg-white rounded shadow-sm py-5 py-4">
-        <h2 id="labs">Labs</h2>
+        <h2 id="data-science-setup-for-mac-os-x">Data Science Setup for Mac OS X</h2>
+<p>Data Science requires a few tools to help us discover interesting features in our data. We will primarily use two tools and several libraries within each of these tools. The two tools are:</p>
+
+<ul>
+  <li><strong>python</strong>, a simple programming language <em>(this allows for the computer to do the work for us)</em></li>
+  <li><strong>git</strong>, a distributed version control system/repository tool <em>(this runs technology behind “github”)</em></li>
+</ul>
+
+<p>All of these tools are free (and open-source), so it just takes a few minutes for you to install them to get started!</p>
+
 <hr />
 
-<ul>
-    <li><a href="" target="_blank"><b>lab_similarity</b>: Similarity</a> (Due: )
-    </li>
-</ul>
+<h2 id="installing-python">Installing python</h2>
+<p>You will need Python 3.6 (or later). We will first check if you have Python already (if you have done Data Science) and install it if you don’t already have it.</p>
+
+<h3 id="checking-for-existing-python">Checking for existing Python</h3>
+<ol>
+  <li>
+    <p>Open up your <a href="/DigitalScholars_DataScience/resources/cli.html">command prompt</a></p>
+  </li>
+  <li>
+    <p>Type <code class="highlighter-rouge">python --version</code> and press <strong>Enter</strong>.</p>
+  </li>
+</ol>
 
 <ul>
-    <li><a href="" target="_blank"><b>lab_hypothesis-tests</b>: Hypothesis Tests</a> (Due: )
-    </li>
+  <li>
+    <p>If you see <code class="highlighter-rouge">Python 3.7.1</code> (or similar), you are all set – no need to install Python. <em>(Skip to the git section.)</em></p>
+  </li>
+  <li>
+    <p>If you see <code class="highlighter-rouge">'python' is not recognized as an internal or external command, operable program or batch file.</code>, install it now:</p>
+  </li>
 </ul>
 
-<ul>
-    <li><a href="" target="_blank"><b>lab_kmeans</b>: K-Means Clustering</a> (Due: )
-    </li>
-</ul>
+<h3 id="installing-python-1">Installing Python</h3>
+<ol>
+  <li>
+    <p>Visit <a href="https://conda.io/miniconda.html" target="_blank">https://conda.io/miniconda.html</a> to get Miniconda, a light-weight version of the python programming language</p>
+  </li>
+  <li>
+    <p>Download the latest Mac OS X, <strong>64-bit bash</strong> installer for the latest version of Python (eg: 3.7).</p>
+  </li>
+  <li>
+    <p>Open up your <a href="/DigitalScholars_DataScience/resources/cli.html">command prompt</a> and run the script you downloaded by running the following:</p>
+    <ul>
+      <li><code class="highlighter-rouge">cd Downloads</code></li>
+      <li><code class="highlighter-rouge">bash Miniconda3-latest-MacOSX-x86_64.sh</code></li>
+    </ul>
+  </li>
+</ol>
 
-<ul>
-    <li><a href="" target="_blank"><b>lab_regression</b>: Regression</a> (Due: )
-    </li>
-</ul>
+<p>You will need to press <code class="highlighter-rouge">q</code> to exit the license screen and all default options are fine.</p>
+<ol>
+  <li>Restart your terminal</li>
+</ol>
 
-<ul>
-    <li><a href="" target="_blank"><b>lab_lists</b>: Lists</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_clt</b>: CLT</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_random-variable</b>: Random Variable</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_birthday</b>: Birthday</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_simulation</b>: Simulation</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_plots</b>: Plots</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_gpa</b>: GPA</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_simpsons-paradox</b>: Simpson's Paradox</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_pandas</b>: Getting Started with Pandas</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_intro</b>: Introduction to Data Science</a> (Due: )
-    </li>
-</ul>
-
-<h2 id="homeworks">Homeworks</h2>
 <hr />
 
-<ul>
-    <li><a href="" target="_blank"><b>Homework 11</b>: Probability and Simulation III</a> (Due: )
-    </li>
-</ul>
+<h2 id="installing-git">Installing git</h2>
+<p>Any modern version of git works. We will first check if you have git and install it if you don’t already have it.</p>
+
+<h3 id="checking-for-git">Checking for git</h3>
+<ol>
+  <li>
+    <p>Open up your <a href="/DigitalScholars_DataScience/resources/cli.html">command prompt</a></p>
+  </li>
+  <li>
+    <p>Type <code class="highlighter-rouge">git --version</code> and press <strong>Enter</strong>.</p>
+  </li>
+</ol>
 
 <ul>
-    <li><a href="" target="_blank"><b>Homework 10</b>: Probability and Simulation II</a> (Due: )
-    </li>
+  <li>
+    <p>If you see <code class="highlighter-rouge">git version ...</code> (or similar), you are all set – no need to install git! <em>(You’re done!)</em></p>
+  </li>
+  <li>
+    <p>If OS X gives a popup about installing git, click “Install” (or similar option) to Install git directly from Apple</p>
+  </li>
 </ul>
 
-<ul>
-    <li><a href="" target="_blank"><b>Homework 9</b>: Probability and Simulation I</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 8</b>: Quartiles and Boxplots</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 7</b>: groupby and Center and Spread II</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 6</b>: Center and Spread</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 5</b>: Privacy and Data Science</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 4</b>: Python Conditionals with Pandas</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 3</b>: Causal Links and Confounders</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 2</b>: Blocking and Python Conditionals</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 1</b>: Experimental Design and Basic Python</a> (Due: )
-    </li>
-</ul>
-
-<h2 id="projects">Projects</h2>
-<hr />
-
-<ul>
-    <li><a href="" target="_blank">Image Mosaic</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank">You and Data Science</a> (Due: )
-    </li>
-</ul>
+<h3 id="non-apple-install">Non-Apple Install</h3>
+<p><strong>Only if</strong> typing <code class="highlighter-rouge">git</code> provides no version and no popup, you can install git by downloading it from the Internet:</p>
+<ol>
+  <li>
+    <p>Visit <a href="https://git-scm.com/downloads" target="_blank">https://git-scm.com/downloads</a> to get git, a distributed version control system/repository tool</p>
+  </li>
+  <li>
+    <p>Download and install the latest Mac OS X installer. You may need to Ctrl+Click to install it.</p>
+  </li>
+  <li>
+    <p>After the install finishes, verify it installed by following the steps above.</p>
+  </li>
+</ol>
 
       </div>
     </div>

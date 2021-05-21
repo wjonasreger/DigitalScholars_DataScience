@@ -62,7 +62,7 @@
     <div class="fixed-background" style="margin-top:-5px; height:275px;">
   <div class="row dark text-center" style="height:275px;">
     <div class="col-12 text-center">
-      <h3 class="heading">course assignments</h3>
+      <h3 class="heading">command line interface</h3>
       <div class="heading-underline"></div>
     </div>
   </div>
@@ -76,152 +76,72 @@
 
 
 <!-- Start of Syllabus Section -->
-<div id="course-assignments" class="offset">
+<div id="command-line-interface" class="offset">
   <div class="jumbotron" style="margin-top:5px;">
-    <div class="course-assignments narrow" style="margin-top: -25px;">
+    <div class="command-line-interface narrow" style="margin-top: -25px;">
       <div class="card bg-white rounded shadow-sm py-5 py-4">
-        <h2 id="labs">Labs</h2>
+        <h2 id="command-line-interface">Command Line Interface</h2>
+<p>If you think about how you usually use a computer, you probably navigate to a file by clicking on directories and open a program or file by double clicking on them. When you are programming a computer, you often need to run programs and send them options, called arguments, which is nearly impossible to do with only a click.</p>
+
+<p>Because of this, every operating system contains a Command Line Interface (CLI) that lets you interact with your computer using a keyboard. You can do everything you already do on a computer via the command line, but you can also do a whole lot more!</p>
+
+<h3 id="windows-opening-your-command-line">Windows: Opening your command line</h3>
+<ol>
+  <li>Press [Windows Key] to bring up the “Windows menu”</li>
+  <li>Type: <code class="highlighter-rouge">Anaconda Prompt</code> (If <code class="highlighter-rouge">Anaconda Prompt</code> is not found you will need to <a href="" target="_blank">install Python</a>.)</li>
+  <li>Press [Enter]</li>
+  <li>A black box titled “Anaconda Prompt” will open</li>
+</ol>
+
+<h3 id="mac-os-x-opening-your-command-line">Mac OS X: Opening your command line</h3>
+<ol>
+  <li>Press [Command]+[Space] to open Spotlight, or open up Spotlight or App Launcher</li>
+  <li>Type: <code class="highlighter-rouge">Terminal</code></li>
+  <li>Press [Enter]</li>
+  <li>A white box titled “Terminal” will open</li>
+</ol>
+
 <hr />
 
+<h2 id="command-prompt">Command prompt</h2>
+<p>Both command line tools start every line with a prompt that shows the current working directory of the command line tool. By default, both Windows and Mac starts you off in the base folder for your user account. The syntax varies only slightly between the two (assuming a user named Tamun), so the initial prompt should be one of the following:</p>
+
 <ul>
-    <li><a href="" target="_blank"><b>lab_similarity</b>: Similarity</a> (Due: )
-    </li>
+  <li>Windows: <code class="highlighter-rouge">C:\Users\Tamun\&gt;</code></li>
+  <li>OS X: <code class="highlighter-rouge">Tamun-MacBook-Pro:~ Tamun$</code></li>
 </ul>
 
+<h3 id="current-working-directory">Current working directory</h3>
+<p>When using the command line, you are always “inside” of one specific folder (much like when you double-click a folder you see the contents of everything in that folder and only that folder). The current folder that your command line tool is in is referred to as the current working directory.</p>
+
+<p>In Data Science, we recommend that you <strong>work within a directory called <code class="highlighter-rouge">datascience</code> on your desktop</strong>. In order to navigate to that directory, we need to first navigate to your Desktop and then navigate to the <code class="highlighter-rouge">datascience</code> directory. Both of these things can be done with the cd command (cd for “change directory”):</p>
+
 <ul>
-    <li><a href="" target="_blank"><b>lab_hypothesis-tests</b>: Hypothesis Tests</a> (Due: )
-    </li>
+  <li><code class="highlighter-rouge">cd Desktop</code></li>
+  <li><code class="highlighter-rouge">cd datascience</code></li>
 </ul>
 
+<p>You can visually verify that you are now in your Data Science directory by looking at the prompt:</p>
+
 <ul>
-    <li><a href="" target="_blank"><b>lab_kmeans</b>: K-Means Clustering</a> (Due: )
-    </li>
+  <li>Windows: <code class="highlighter-rouge">C:\Users\Jonas\Desktop\datascience&gt;</code></li>
+  <li>OS X: <code class="highlighter-rouge">Jonas-MacBook-Pro:~ datascience$</code></li>
 </ul>
 
+<h3 id="useful-command-listing-files">Useful Command: Listing Files</h3>
+<p>When using a command line tool, you often want to know what files are in your current working directory. To list all files in the current directory:</p>
+
 <ul>
-    <li><a href="" target="_blank"><b>lab_regression</b>: Regression</a> (Due: )
-    </li>
+  <li>Windows: <code class="highlighter-rouge">dir</code></li>
+  <li>OS X: <code class="highlighter-rouge">ls</code></li>
 </ul>
 
-<ul>
-    <li><a href="" target="_blank"><b>lab_lists</b>: Lists</a> (Due: )
-    </li>
-</ul>
+<h3 id="useful-command-moving-up-a-directory">Useful Command: Moving Up a Directory</h3>
+<p>In addition to moving “forward” or “deeper” into your directories, the special <code class="highlighter-rouge">cd ..</code> will change your directory “up” one directory.</p>
 
 <ul>
-    <li><a href="" target="_blank"><b>lab_clt</b>: CLT</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_random-variable</b>: Random Variable</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_birthday</b>: Birthday</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_simulation</b>: Simulation</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_plots</b>: Plots</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_gpa</b>: GPA</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_simpsons-paradox</b>: Simpson's Paradox</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_pandas</b>: Getting Started with Pandas</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>lab_intro</b>: Introduction to Data Science</a> (Due: )
-    </li>
-</ul>
-
-<h2 id="homeworks">Homeworks</h2>
-<hr />
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 11</b>: Probability and Simulation III</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 10</b>: Probability and Simulation II</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 9</b>: Probability and Simulation I</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 8</b>: Quartiles and Boxplots</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 7</b>: groupby and Center and Spread II</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 6</b>: Center and Spread</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 5</b>: Privacy and Data Science</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 4</b>: Python Conditionals with Pandas</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 3</b>: Causal Links and Confounders</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 2</b>: Blocking and Python Conditionals</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank"><b>Homework 1</b>: Experimental Design and Basic Python</a> (Due: )
-    </li>
-</ul>
-
-<h2 id="projects">Projects</h2>
-<hr />
-
-<ul>
-    <li><a href="" target="_blank">Image Mosaic</a> (Due: )
-    </li>
-</ul>
-
-<ul>
-    <li><a href="" target="_blank">You and Data Science</a> (Due: )
-    </li>
+  <li>Moves into <code class="highlighter-rouge">datascience</code> from your Desktop (one level deeper): cd <code class="highlighter-rouge">datascience</code></li>
+  <li>Moves back to your Desktop from <code class="highlighter-rouge">datascience</code> (one level shallower): <code class="highlighter-rouge">cd ..</code></li>
 </ul>
 
       </div>

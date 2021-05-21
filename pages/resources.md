@@ -36,11 +36,11 @@ title: course-resources
 ## Other Guides
 <hr/>
 
-* <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/cli/" target="_blank">Command Line Interface</a>
-* <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/git/" target="_blank">Setting Up git</a>
-* <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/osx-setup/" target="_blank">Data Science Setup for Mac OS X</a>
-* <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/pandas-cheat-sheet/" target="_blank">Pandas Cheat Sheet</a>
-* <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/windows-setup/" target="_blank">Data Science Setup for Windows</a>
+* <a href="{{ site.baseurl }}/resources/cli.html" target="_blank">Command Line Interface</a>
+* <a href="{{ site.baseurl }}/resources/git.html" target="_blank">Setting Up git</a>
+* <a href="{{ site.baseurl }}/resources/osx-setup.html" target="_blank">Data Science Setup for Mac OS X</a>
+* <a href="{{ site.baseurl }}/resources/pandas-cheat-sheet.html" target="_blank">Pandas Cheat Sheet</a>
+* <a href="{{ site.baseurl }}/resources/windows-setup.html" target="_blank">Data Science Setup for Windows</a>
 
 ## Citations
 <hr/>

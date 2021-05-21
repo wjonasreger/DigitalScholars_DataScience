@@ -124,19 +124,23 @@ body {
   padding: 0 auto;
 }
 
+code {
+  color: #13294b;
+  background-color: rgba(151,215,0, 0.25);
+}
 
 /*-- Information Pages Styling --*/
 .card {
   padding: 0 7%;
 }
 
-#course-syllabus h1, #exam-schedule h1, #practice-exams h1, #faqs h1, #course-schedule h1, #course-assignments h1, #course-resources h1 {
+#course-syllabus h1, #course-schedule h1, #course-assignments h1, #course-resources h1 {
   font-weight: bold;
   font-size: 40px;
   color: #13294b;
 }
 
-#course-syllabus h2, #exam-schedule h2, #practice-exams h2, #faqs h2, #course-assignments h2, #course-resources h2 {
+#course-syllabus h2, #course-assignments h2, #course-resources h2 {
   font-weight: bold;
   font-size: 30px;
   color: #13294b;
@@ -145,38 +149,9 @@ body {
   margin-top: 8px;
 }
 
-#exam-schedule h4, #practice-exams h4 {
-  font-size: 20px;
-}
-
 #course-syllabus li, #course-assignments li, #course-resources li, #course-schedule li {
   font-size: 15px;
   color: #13294b;
-}
-
-
-
-#faqs button {
-  background-color: #2D4365;
-  border-color: #2D4365;
-  width: 100%;
-  white-space: normal;
-  font-size: 16px;
-  text-align: left;
-}
-
-#faqs button:hover {
-  background-color: #13294b;
-  border-color: #13294b;
-}
-
-#faqs .card {
-    padding-top: 15px;
-    margin-bottom: 15px;
-}
-
-#exam-schedule table, #practice-exams table {
-  table-layout: fixed;
 }
 
 /*-- Sections Styling --*/
@@ -255,10 +230,6 @@ a:hover {
   padding-bottom: 5px;
 }
 
-/*--.staff-card {
-   min-height: 100%;
-}--*/
-
 .staff-card img {
   width: 100%
 }
@@ -290,18 +261,9 @@ a:hover {
   color: white;
 }
 
-
-
 .btn-secondary svg.svg-inline--fa {
   padding: 0 5px;
   color: white;
-}
-
-
-/*-- Testimonials Styling --*/
-
-.testimonials li {
-  font-size: 20px;
 }
 
 ul {
@@ -336,24 +298,6 @@ table {
 .calendar b {
   display: block;
   margin-bottom: 15px;
-}
-.date {
-  font-size:95%;line-height:1px;
-}
-.hw {
-  color:red;font-size:100%;
-}
-.prel, .surv {
-  color:blue;font-size:100%;
-}
-.exam {
-  color:red;font-size:115%;
-}
-.twitch {
-  color:#9147ff;font-size:115%;
-}
-.conf {
-  font-size:115%;
 }
 
 
@@ -451,10 +395,10 @@ iframe {
     font-size: 19px;
   }
   /* Information Pages Styling */
-  #course-syllabus h1, #exam-schedule h1, #practice-exams h1, #course-schedule h1, #faqs h1, #course-assignments h1, #course-resources h1 {
+  #course-syllabus h1, #course-schedule h1, #course-assignments h1, #course-resources h1 {
     font-size: 25px;
   }
-  #course-syllabus h2, #exam-schedule h2, #practice-exams h2, #faqs h2, #course-assignments h2, #course-resources h2 {
+  #course-syllabus h2, #course-assignments h2, #course-resources h2 {
     font-size: 20px;
   }
   #course-syllabus h3, #course-assignments h3, #course-resources h3 {
@@ -463,31 +407,19 @@ iframe {
   #course-syllabus li, #course-assignments li, #course-resources li {
     font-size: 15px;
   }
-  #exam-schedule h4, #practice-exams h4 {
-    font-size: 15px;
-  }
-  #faqs button, #faqs .card-body {
-    font-size: 12px;
-  }
   .syllabus {
     width: 100%;
   }
-  .course-syllabus.narrow, .course-schedule.narrow, .faqs.narrow, .exam-schedule.narrow, .practice-exams.narrow, .Covid-19-Online-Amendments.narrow, .grade-calculator.narrow, .course-assignments.narrow, .course-resources.narrow {
+  .course-syllabus.narrow, .course-schedule.narrow, .course-assignments.narrow, .course-resources.narrow {
     width: 100%;
     padding-top: 5px;
-  }
-  .testimonials li {
-    font-size: 15px;
-  }
-  .testimonials ul.narrow {
-    width: 100%;
   }
   .jumbotron {
     padding: 0 5px;
     padding-bottom: 1px;
     padding-top: 25px;
   }
-  .course-syllabus.narrow .card, .exam-schedule.narrow .card, .practice-exams.narrow .card, .faqs.narrow .card, .Covid-19-Online-Amendments.narrow .card, .grade-calculator.narrow .card, .course-assignments.narrow .card, .course-resources.narrow .card {
+  .course-syllabus.narrow .card, .course-assignments.narrow .card, .course-resources.narrow .card {
     padding: 0 30px;
     margin-bottom: -20px;
   }
