@@ -28,7 +28,6 @@ announcements:
 #       <li>Blocking and Conditionals</li>
 #     </ol>
 #   text: "<i>More details forthcoming...</i>"
-
 - date: "June 28"
   week: "1"
   type: "Lecture"
@@ -38,23 +37,23 @@ announcements:
       <li>Data Science Tools</li>
     </ol>
   text: >-
-  Data Science is a BIG thing at Illinois and it starts here at Digital Scholars Data Science!
-  <ol>
-    <li>Welcome to Data Science!
-      <ul>
-        <li><a href="https://forms.gle/s5HbX5xDoPQt4UK86" target="_blank">Hello Survey</a></li>
-        <li><a href="https://docs.google.com/presentation/d/1hlvtQYTtI8ihTZtoCW2kSgOKpbDokNmptWp-9sdpYI0/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
-        <li>Lecture Handout</li>
-      </ul>
-    </li>
-    <li>Data Science Tools
-      <ul>
-        <li><a href="https://docs.google.com/presentation/d/1o1GrmhiOXHIT-e8UYoUvcCHsPdAFC-v88-dSjBo3KLw/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
-        <li>Lecture Handout</li>
-        <li>Hello Survey Dataset</li>
-      </ul>
-    </li>
-  </ol>
+    Data Science is a BIG thing at Illinois and it starts here at Digital Scholars Data Science!
+    <ol style="text-align: left;">
+      <li>Welcome to Data Science!
+        <ul>
+          <li><a href="https://forms.gle/s5HbX5xDoPQt4UK86" target="_blank">Hello Survey</a></li>
+          <li><a href="https://docs.google.com/presentation/d/1hlvtQYTtI8ihTZtoCW2kSgOKpbDokNmptWp-9sdpYI0/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
+          <li>Lecture Handout</li>
+        </ul>
+      </li>
+      <li>Data Science Tools
+        <ul>
+          <li><a href="https://docs.google.com/presentation/d/1o1GrmhiOXHIT-e8UYoUvcCHsPdAFC-v88-dSjBo3KLw/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
+          <li>Lecture Handout</li>
+          <li>Hello Survey Dataset</li>
+        </ul>
+      </li>
+    </ol>
 
 
 - date: "June 14"
