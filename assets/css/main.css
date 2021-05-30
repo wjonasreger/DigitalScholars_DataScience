@@ -41,7 +41,8 @@ body {
 }
 
 .navbar-brand img {
-  height: 30px;
+  height: 50px;
+  padding: 0px;
 }
 
 .navbar-nav li {
@@ -58,9 +59,36 @@ body {
   color: #97D700;
 }
 
-
-
 /*-- Landing Page Styling --*/
+.land-logo {
+  display: inline-flex;
+  background-color: rgba(19,41,75, 0.85)!important;
+  height: 300px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+  padding: 10px;
+  align-items: center;
+}
+
+.land-logo img {
+  height: 100%;
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+  vertical-align: middle;
+}
+
+.land-title {
+  padding-left: 20px;
+  text-align: left;
+  display: table;
+  vertical-align: middle;
+}
+
+.land-title h1 {
+  height: 100%;
+}
+
 .layer {
   background-color: rgba(0,0,0,0.5);
   position: absolute;
@@ -71,6 +99,7 @@ body {
 }
 
 .caption {
+  margin-top: -100px;
   width: 100%;
   max-width: 100%;
   position:absolute;
@@ -339,6 +368,14 @@ hr.socket {
   margin-top: 50px;
 }
 
+.foot-logo {
+  display: block;
+  height: 200px;
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+
 
 /* iframe */
 
@@ -358,17 +395,28 @@ iframe {
 
 @media (max-width: 767px) {
   /* Home Page Styling */
+  .land-logo {
+    height: 150px;
+    margin-bottom: 20px;
+  }
+
   .caption {
     top:10%;
+    margin-top: 20px;
   }
   .caption h1 {
     font-size: 30px;
     letter-spacing: 2px;
     padding-bottom: 10px;
   }
+  .land-title h1 {
+    height: 100%;
+    font-size: 25px;
+  }
   .caption h3 {
-    font-size: 23px;
-    padding-bottom: 20px;
+    font-size: 20px;
+    padding-bottom: 15px;
+    margin-top: -10px;
   }
   .btn-lg {
     padding: 10px 15px;;
@@ -478,5 +526,13 @@ iframe {
   }
   .staff-card {
     margin-top: -40px;
+  }
+  .foot-logo {
+    height: 150px;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .foot-desc {
+    font-size: 13px;
   }
 }
