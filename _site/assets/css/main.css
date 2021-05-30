@@ -398,6 +398,12 @@ iframe {
   .land-logo {
     height: 150px;
     margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .navbar-brand img {
+    height: 30px;
   }
 
   .caption {
