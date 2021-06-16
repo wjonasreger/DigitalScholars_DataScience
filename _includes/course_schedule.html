@@ -12,12 +12,9 @@
                 <td>{{ item.date }}</td>
                 <td>
                     <ol>
-                        <li>{{ item.name1 }}</li>
-                            {{ item.content1 }}
-                        <li>{{ item.name2 }}</li>
-                            {{ item.content2 }}
-                        <li>{{ item.name3 }}</li>
-                            {{ item.content3 }}
+                        {% if item.name != '' %}<li>{{ item.name }}</li>{% endif %}
+                        {% if item.content != '' %}<li>Content:{{ item.content }}</li>{% endif %}
+                        {% if item.lab != '' %}<li>{{ item.lab }}</li>{% endif %}
                     </ol>
                 </td>
             </tr>

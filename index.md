@@ -23,8 +23,8 @@ layout: default
           <a href="{{ site.data.info.rickroll }}"><i class="{{ site.data.info.online-icon }}" data-fa-transform="shrinks-5 up-4"></i></a>
           <h3>Online Section: {% assign online = site.data.info.sections | where: 'type', 'Online' %}{% if online.size == 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif online.size > 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }}{% elsif class == online.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in online %}{{ class.name }}{% endfor %}{% endif %}</h3>
           <p>{% for class in online %}
-          <b>{{ class.name }} Instructor: {{ class.instructor }}</b><br>
-          {{ class.times }}<br>{{ class.location }}<br>
+          <b>{{ class.instructor }}</b><br>
+          {{ class.times }}<br>{{ class.location }}<br>{{ class.office }}<br>
           {% endfor %}</p>
         </div>
       </div>
