@@ -5,9 +5,9 @@ instructors:
   email: "wreger2@illinois.edu"
 
 sections:
-- name: "Data Science"
+- name: "Discovering Data Science"
   type: "Online"
-  instructor: "Data Science Lead Instructors Jonas Reger & Tamun Hanjra"
+  instructor: "<b>Instructors:</b> Jonas Reger & Tamun Hanjra"
   times: "<b>Class Times:</b> 9am - 1pm CDT M-R"
   location: "<b>Location:</b> No in-person locations. Lectures and Labs will be on Zoom."
   office: "<b>Office Hours:</b> Tuesdays 4-6pm CDT & Thursdays 2-4pm CDT"

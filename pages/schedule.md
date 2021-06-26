@@ -7,7 +7,17 @@ title: course-schedule
 ---
 
 {% include course_schedule.html week='1' %}
-{% include course_schedule.html week='2' %}
+<!-- {% include course_schedule.html week='2' %}
 {% include course_schedule.html week='3' %}
 {% include course_schedule.html week='4' %}
-{% include course_schedule.html week='5' %}
+{% include course_schedule.html week='5' %} -->
+
+<style>.week-sub {text-align: center; font-style: italic; font-weight: bold; color: grey;}</style>
+
+<p class="week-sub">Week 2 Topics: Exploratory Data Analysis, Algorithms, Probability</p>
+
+<p class="week-sub">Week 3 Topics: Probability, Control Flow, Simulations, Ethics, Random Variables</p>
+
+<p class="week-sub">Week 4 Topics: Central Limit Theorem, Sampling, Confidence Intervals, Machine Learning</p>
+
+<p class="week-sub">Week 5 Topics: Hypothesis Testing, Randomization Tests, Other Topics, Project Presentations</p>

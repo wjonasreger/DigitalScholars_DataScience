@@ -43,6 +43,11 @@ body {
 .navbar-brand img {
   height: 50px;
   padding: 0px;
+  margin-left: 0;
+}
+
+.navbar-brand {
+  margin-left: -10;
 }
 
 .navbar-nav li {
@@ -182,6 +187,7 @@ code {
   font-size: 15px;
   color: #13294b;
 }
+
 
 /*-- Sections Styling --*/
 
@@ -523,7 +529,7 @@ iframe {
     width: 100%;
     margin: -10px;
   }
-  
+
   .staff-card button {
       margin-top: 10px;
       margin-bottom: 0px;

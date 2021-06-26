@@ -61,9 +61,9 @@ announcements:
   type: "Welcome!"
   summary: >-
     <ol>
-      <li>Welcome to Digital Scholars Data Science!</li>
+      <li>Welcome to Discovering Data Science!</li>
     </ol>
-  text: "Our first lecture is <b>Monday, June 28th</b> at <b>10am CST</b> after the Guest Speaker at 9am CST. We will meet via Zoom at the link above. See you there!:)"
+  text: "Our first lecture is <b>Monday, June 28th</b> at <b>12pm CDT</b> after the First Day orientation and activities. We will meet via Zoom at the link above. See you there!:)"
 
   # content: >-
   #   <ul>
@@ -81,25 +81,25 @@ schedule:
       <li><a href="https://docs.google.com/presentation/d/1hlvtQYTtI8ihTZtoCW2kSgOKpbDokNmptWp-9sdpYI0/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
       <li>Lecture Handout</li>
     </ul>
-  lab: "<b>lab1_intro</b>"
+  lab: ""
 
 - date: "June 29"
   week: "1"
   name: "Lecture #2: Experimental Design, Blocking and pandas"
   content: ''
-  lab: "<b>lab2_pandas</b>"
+  lab: "Lab #1: Introduction"
 
 - date: "June 30"
   week: "1"
   name: "Lecture #3: Observational Studies, Confounders, and Stratification"
   content: ''
-  lab: "<b>lab3_simpsons-paradox</b>"
+  lab: "Lab #2: Pandas"
     
 - date: "July 1"
   week: "1"
   name: "Lecture #4: Measures of Center and Spread, Boolean Logic, and Conditionals"
   content: ''
-  lab: "project part #1: <b>project_intro</b>"
+  lab: "Project: Introduction"
     
 - date: "July 5"
   week: "2"

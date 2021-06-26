@@ -8,24 +8,24 @@ title: course-syllabus
 
 ## Description
 
-Digital Scholars Data Science is an introduction to topics that intersect between statistics, computation, and real-world applications. This 5-week-long course will be project-driven, which will give students opportunities to analyze real-world datasets and discover the impact of the data. Students will gain an understanding of complex ideas in statistics and computing, and consider the social impact and issues of Data Science such as ethics and social justice.
+Discovering Data Science is an introduction to topics that intersect between statistics, computation, and real-world applications. This 5-week-long course will be project-driven, which will give students opportunities to analyze real-world datasets and discover the impact of the data. Students will gain an understanding of complex ideas in statistics and computing, and consider the social impact and issues of Data Science such as ethics and design.
 
 ## Class Times
 
-* 9am-1pm CST Monday–Thursday (June 28 – July 30)
+* 9am-1pm CDT Monday–Thursday (June 28 – July 30)
     * 9-10am Guest Speaker
-    * 10-11am Lecture/Discussion Part I
-    * 11am-12pm Lecture/Discussion Part II
+    * 10-11:50am Lecture/Discussion
+    * 11:50-12pm Break
     * 12-1pm Lab/Discussion
-* The schedule might vary for each day depending on the lesson material being covered (i.e. sometimes there may be 2 hours of Lab/Discussion instead). Jonas and Tamun will be here for the 10am-1pm portion to lead the lectures and labs. We will also take a short break in between hours if needed.
+* Jonas and Tamun will be here for the 10am-1pm portion to lead the lectures and labs.
 
 ## Instructor Contact Information
 
-* Data Science Lead Instructor: Jonas Reger
+* Lead Instructor: Jonas Reger
 Email: <a href="mailto:wreger2@illinois.edu">wreger2@illinois.edu</a>
-* Data Science Assistant Instructor: Tamun Hanjra
+* Assistant Instructor: Tamun Hanjra
 
-## Office Hours?
+## Office Hours
 
 * Every Tuesday from 4-6pm and Thursday from 2-4 pm.
 
@@ -35,21 +35,21 @@ Email: <a href="mailto:wreger2@illinois.edu">wreger2@illinois.edu</a>
 
 * **Lecture Binder/Folder**: Since this class is only online, you are encouraged to prepare your notes ahead of class in the way that works best for you (e.g. print notes and keep in Binder/Folder, save files in a designated folder on any device, or another system that works best for you). I recommend keeping all of your notes together in one place to stay organized in this fast-paced course. Taking notes in this class is very important to succeeding and learning about Data Science. All notes and resources will be available on the website before each class if you want to print them out (i.e. before 9am M-R).
 
-## Course Assignments (and Grades?)
+## Course Assignments
 
 * **Labs:** We will have daily labs M-R for the last hour of class. The labs will provide students with hands-on experience in data science by writing code to solve various problems. Some labs will be specially designed to help students with their capstone project.
 
-* **Homework:** We will release one homework set each week on Monday morning. Sometimes we might do some of these problems in class if time permits. These are optional assignments but I strongly encourage students to do them. They provide a lot of practice, checks your understanding of material, and provides some extra challenges or concepts.
+* **Homework:** We will release one homework set each week on Monday morning. Sometimes we might do some of these problems in class if time permits. These are optional assignments but I encourage students to try them. They provide a lot of practice, checks your understanding of material, and provides some extra challenges or concepts.
 
 * **Capstone Project:** We will begin working on our projects on day 1! Students will gradually work on their projects throughout the 5 weeks with the help of special lab assignments and attendance to office hours. Students will complete a professional data analysis report and present a summary of their analysis and findings in a 4-6 minute presentation with slides.
 
 ## Course Grade
 
-There are no letter grades, but there will be point grading to track completion and performance for each individual student. Each student will receive a written evaluation/feedback each week.
+There are no letter grades, but there will be point grading to track completion and performance for each individual student. Each student will receive a written evaluation/feedback each week. Only lab assignments will be graded, but we will also provide feedback on the project at the mid-checkpoint (i.e. end of week 3).
 
 ## Late Submissions 
 
-Do not turn in late work, or else it may be difficult to keep up. If you need help, please reach out to one of the instructors or UIC Chance staff members. Late work will be accepted and given feedback with no point penalty until the end of each week (i.e. 11:59 pm Saturday).
+Do not turn in late work, or else it may be difficult to keep up. If you need help, please reach out to one of the instructors or UIC Chance staff members. Late work will not be graded after Saturday at 11:59pm each week.
 
 ## Learning Collaboratively
 

@@ -14,7 +14,7 @@ layout: default
   <div class="jumbotron bg-light">
     <!-- title -->
     <div class="col-12 narrow text-center">
-      <h1 style="padding-bottom: 20px; text-transform: uppercase;">{{ site.title }} {{ site.semester }} Course Information</h1>
+      <h1 style="padding-bottom: 20px; text-transform: uppercase;">Discovering Data Science<br>Course Information</h1>
       <div class="heading-underline"></div>
     </div>
     <div class="row text-center">
@@ -23,7 +23,7 @@ layout: default
           <a href="{{ site.data.info.rickroll }}"><i class="{{ site.data.info.online-icon }}" data-fa-transform="shrinks-5 up-4"></i></a>
           <h3>Online Section: {% assign online = site.data.info.sections | where: 'type', 'Online' %}{% if online.size == 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif online.size > 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }}{% elsif class == online.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in online %}{{ class.name }}{% endfor %}{% endif %}</h3>
           <p>{% for class in online %}
-          <b>{{ class.instructor }}</b><br>
+          {{ class.instructor }}<br>
           {{ class.times }}<br>{{ class.location }}<br>{{ class.office }}<br>
           {% endfor %}</p>
         </div>
