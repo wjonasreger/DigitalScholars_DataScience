@@ -78,8 +78,8 @@ schedule:
   content: >-
     <ul>
       <li><a href="https://forms.gle/s5HbX5xDoPQt4UK86" target="_blank">Hello Survey</a></li>
-      <li><a href="https://docs.google.com/presentation/d/1hlvtQYTtI8ihTZtoCW2kSgOKpbDokNmptWp-9sdpYI0/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
-      <li>Lecture Handout</li>
+      <li><a href="https://docs.google.com/presentation/d/183Rw1fQgvkHMvuYqUK3WeOgGzhiNPCM_UXxtYKCqx7w/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
+      <li><a href="https://docs.google.com/document/d/1jJgFQxz3LCtm1v3YT-O8BvGOVcs4z2CTZBxETRhnkwM/edit?usp=sharing" target="_blank">Lecture Handout</a></li>
     </ul>
   lab: ""
 
@@ -94,13 +94,13 @@ schedule:
   name: "Lecture #3: Observational Studies, Confounders, and Stratification"
   content: ''
   lab: "Lab #2: Pandas"
-    
+
 - date: "July 1"
   week: "1"
   name: "Lecture #4: Measures of Center and Spread, Boolean Logic, and Conditionals"
   content: ''
   lab: "Project: Introduction"
-    
+
 - date: "July 5"
   week: "2"
   name: "Holiday - No Class! :)"
@@ -204,7 +204,7 @@ labs:
   link: ""
   due: ""
   text: ""
-  
+
 # Homeworks
 homeworks:
 - name: "<b>Homework 1</b>"

@@ -81,22 +81,24 @@
     <div class="setting-up-git narrow" style="margin-top: -25px;">
       <div class="card bg-white rounded shadow-sm py-5 py-4">
         <h2 id="setting-up-git-for-data-science">Setting Up git for Data Science</h2>
+<p><strong>Warning:</strong> Using Git/GitHub is optional due to the challenge it may present to students during an intense 5-week course. If a student has experience using Git/GitHub or Command Line tasks then they may attempt to use it. For students who do not have any previous experience using these tools I would recommend not worrying about Git/GitHub since it is not an important tool to use for this class.</p>
+
 <p>To set up git, there are certain commands you will run:</p>
 
 <ol>
-  <li>Once for the entire semester (“Course Setup”),</li>
+  <li>Once for the entire semester (“GitHub Repository Setup”),</li>
   <li>Once for each computer you use (“Computer Setup”),</li>
   <li>Once each time you work on Data Science assignments (“Assignment Setup”)</li>
 </ol>
 
 <hr />
 
-<h2 id="course-setup">Course Setup</h2>
+<h2 id="github-repository-setup">GitHub Repository Setup</h2>
 <p>To begin to work on assignments and turn in work, you will need to create a git repository for the course.</p>
 
 <ul>
-  <li>Follow the link below to create your repository. You <strong>DO NOT</strong> need to go to the link given to you, you will use that link later in Step 3.</li>
-  <li>Visit: <a href="" target="_blank">https://edu.cs.illinois.edu/create-ghe-repo/stat107-sp20/</a></li>
+  <li>Create a new repository in your GitHub account and give it a name with your first name initial, full last name, and “discover”. E.g. <code class="highlighter-rouge">wreger-discover</code></li>
+  <li>Make the repository private and then add Jonas as a collaborator. His GitHub username is <code class="highlighter-rouge">wjonasreger</code>.</li>
 </ul>
 
 <hr />
@@ -119,17 +121,7 @@
   </li>
   <li>Navigate into your git directory by going into your NetID-named folder:
     <ul>
-      <li><code class="highlighter-rouge">cd NETID</code></li>
-    </ul>
-  </li>
-  <li>Set up a connection to the <code class="highlighter-rouge">_release</code> repository where code will be released for you:
-    <ul>
-      <li>If the command worked, nothing will show up when you run this command. <em>(No output means no error! :))</em></li>
-      <li>If you are not sure, you can run it again and it will say that “the remote already exists”.
-        <ul>
-          <li><code class="highlighter-rouge">git remote add release https://github-dev.cs.illinois.edu/stat107-sp20/_release.git</code></li>
-        </ul>
-      </li>
+      <li><code class="highlighter-rouge">cd YOUR-REPOSITORY-NAME</code></li>
     </ul>
   </li>
   <li>Let git know who you are <strong>REPLACE YOUR NAME and EMAIL with your name/email</strong>:
@@ -140,21 +132,16 @@
   </li>
 </ol>
 
-<h3 id="common-setup-errors">Common Setup Errors</h3>
+<h3 id="setup-errors">Setup Errors</h3>
 
-<h4 id="windows-10---invalid-credentials">Windows 10 - “Invalid Credentials”</h4>
-<p>If you are using Windows 10 and getting “invalid credentials”:</p>
-
-<ol>
-  <li>In your Start menu, type “Credential Manager” and run it.</li>
-  <li>Inside of the credential manager, click “Windows Credentials”</li>
-  <li>Under “Generic Credentials”, find <strong>github-dev.cs.illinois.edu</strong> and edit your password.</li>
-</ol>
+<ul>
+  <li>If you experience errors that you can’t resolve during these steps, please visit Jonas during his office hours on Thursdays from 2-4 pm CDT.</li>
+</ul>
 
 <hr />
 
 <h2 id="assignment-setup">Assignment Setup</h2>
-<p>Each assignment will provide specific instructions on how to use git to fetch and submit your work.</p>
+<p>If a student opts to submit their work via GitHub, then their repository must be private and Jonas added as a collaborator. Each lab assignment would be pushed to the same repository as a new file.</p>
 
 <p><em>Modified from <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/git/">Wade Fagen-Ulmschneider &amp; Karle Flanagan’s STAT 107 - Fall 2019/Spring 2020 guides</a> with permission.</em></p>
 
