@@ -19,41 +19,56 @@ announcements:
 #     </ol>
 #   text: "<i>More details forthcoming...</i>"
 
-# - date: "June 29"
-#   week: "1"
-#   type: "Lecture"
-#   summary: >-
-#     <ol>
-#       <li>Experimental Design & Row Selection (pandas)</li>
-#       <li>Blocking and Conditionals</li>
-#     </ol>
-#   text: "<i>More details forthcoming...</i>"
-# - date: "June 28"
-#   week: "1"
-#   type: "Lecture"
-#   summary: >-
-#     <ol>
-#       <li>Welcome to Digital Scholars Data Science!</li>
-#       <li>Data Science Tools</li>
-#     </ol>
-#   text: >-
-#     Data Science is a BIG thing at Illinois and it starts here at Digital Scholars Data Science!
-#     <ol style="text-align: left;">
-#       <li>Welcome to Data Science!
-#         <ul>
-#           <li><a href="https://forms.gle/s5HbX5xDoPQt4UK86" target="_blank">Hello Survey</a></li>
-#           <li><a href="https://docs.google.com/presentation/d/1hlvtQYTtI8ihTZtoCW2kSgOKpbDokNmptWp-9sdpYI0/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
-#           <li>Lecture Handout</li>
-#         </ul>
-#       </li>
-#       <li>Data Science Tools
-#         <ul>
-#           <li><a href="https://docs.google.com/presentation/d/1o1GrmhiOXHIT-e8UYoUvcCHsPdAFC-v88-dSjBo3KLw/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
-#           <li>Lecture Handout</li>
-#           <li>Hello Survey Dataset</li>
-#         </ul>
-#       </li>
-#     </ol>
+- date: "June 29"
+  week: "1"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Experimental Design, Blocking and pandas</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Is the death penalty and effective deterrence against crime? Is chocolate healthy? What is the cause of breast cancer? All of these questions attempt to assign a cause to an effect. Careful examination of data can help us answer questions like these.
+    <br><br>In studies, random samples and random assignment of participants to control and treatment groups helps average out differences when there are enough subjects. What do you do when you don't have very many participants? Blocking first, then randomizing ensures that the differences are averaged out with regard to the variables blocked on. We can use conditionals in pandas to help us do this!
+    <br><br>Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make copy, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1jJgFQxz3LCtm1v3YT-O8BvGOVcs4z2CTZBxETRhnkwM/edit?usp=sharing" target="_blank">Lecture #1 Handout</a></li>
+          <li><a href="https://docs.google.com/presentation/d/183Rw1fQgvkHMvuYqUK3WeOgGzhiNPCM_UXxtYKCqx7w/edit?usp=sharing" target="_blank">Lecture #1 Slides</a></li>
+        </ul>
+      </li>
+      <li>Complete the Hello Survey
+        <ul>
+          <li><a href="https://docs.google.com/forms/d/12ubOFbNFuqM9ZL6AU49I7W8luXQkRCYVuLixPSAulUc/edit?usp=sharing" target="_blank">Hello Survey</a></li>
+        </ul>
+      </li>
+    </ol>
+
+- date: "June 28"
+  week: "1"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Welcome to Digital Scholars Data Science!</li>
+      <li>Introductions & Syllabus</li>
+    </ol>
+  text: >-
+    Data Science is a BIG thing at Illinois and it starts here at Discovering Data Science!
+    <br><p style="text-align: left;">Today we introduced ourselves and covered the syllabus information for this class, which can be found on the <a href="https://wjonasreger.github.io/DigitalScholars_DataScience/pages/syllabus.html">syllabus page</a>. We will address additional questions regarding Jupyter Notebooks tomorrow during class. 
+    <br><br>Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make copy, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1jJgFQxz3LCtm1v3YT-O8BvGOVcs4z2CTZBxETRhnkwM/edit?usp=sharing" target="_blank">Lecture #1 Handout</a></li>
+          <li><a href="https://docs.google.com/presentation/d/183Rw1fQgvkHMvuYqUK3WeOgGzhiNPCM_UXxtYKCqx7w/edit?usp=sharing" target="_blank">Lecture #1 Slides</a></li>
+        </ul>
+      </li>
+      <li>Complete the Hello Survey
+        <ul>
+          <li><a href="https://docs.google.com/forms/d/12ubOFbNFuqM9ZL6AU49I7W8luXQkRCYVuLixPSAulUc/edit?usp=sharing" target="_blank">Hello Survey</a></li>
+        </ul>
+      </li>
+    </ol>
 
 
 - date: "June 16"
@@ -215,6 +230,6 @@ homeworks:
 # Projects
 projects:
 - name: "You and Data Science"
-  link: ""
-  due: ""
+  link: "{{ site.baseurl }}/pages/project.html"
+  due: "July 29, 2021 at 6 pm CDT"
   text: ""
