@@ -34,7 +34,7 @@ announcements:
       <li>Make copy, download or print the lecture notes!
         <ul>
           <li><a href="https://docs.google.com/document/d/1jJgFQxz3LCtm1v3YT-O8BvGOVcs4z2CTZBxETRhnkwM/edit?usp=sharing" target="_blank">Lecture #1 Handout</a></li>
-          <li><a href="https://docs.google.com/presentation/d/183Rw1fQgvkHMvuYqUK3WeOgGzhiNPCM_UXxtYKCqx7w/edit?usp=sharing" target="_blank">Lecture #1 Slides</a></li>
+          <li><a href="https://docs.google.com/document/d/1iG1kNzpT86jEU1Di7_8oub1Vq0mLzM1nEOenQ1WIzXY/edit?usp=sharing" target="_blank">Lecture #2 Handout</a></li>
         </ul>
       </li>
       <li>Complete the Hello Survey
@@ -230,6 +230,6 @@ homeworks:
 # Projects
 projects:
 - name: "You and Data Science"
-  link: "{{ site.baseurl }}/pages/project.html"
+  link: ""
   due: "July 29, 2021 at 6 pm CDT"
   text: ""

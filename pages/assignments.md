@@ -32,7 +32,7 @@ title: course-assignments
 <hr/>
 {% for item in site.data.content.projects %}
 <ul>
-    <li><a href="{{ item.link }}" target="_blank">{{ item.name }}</a> (Due: {{ item.due }})
+    <li><a href="{{ site.baseurl }}/pages/project.html">{{ item.name }}</a> (Due: {{ item.due }})
     {% if item.text != "" %}
     <p>{{ item.text }}</p>
     {% endif %}</li>
