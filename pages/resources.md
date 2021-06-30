@@ -94,4 +94,5 @@ title: course-resources
 * Images are credited to the following:
     * Landing Page Photo: <a href='https://www.freepik.com/photos/calendar'>Calendar photo created by rawpixel.com - www.freepik.com</a>
     * Default Picture for Announcement Cards: <a href='https://www.freepik.com/photos/business'>Business photo created by rawpixel.com - www.freepik.com</a>
+    * Picture for Homework Announcement Cards: <a href='https://www.freepik.com/photos/vintage'>Vintage photo created by jcomp - www.freepik.com</a>
     * Statistics Textbook Background Photo by Photographer Shad Anderson.

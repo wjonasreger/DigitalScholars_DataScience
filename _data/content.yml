@@ -9,21 +9,49 @@ announcements:
 #     </ol>
 #   text: "<i>More details forthcoming...</i>"
 
-# - date: "June 30"
-#   week: "1"
-#   type: "Lecture"
-#   summary: >-
-#     <ol>
-#       <li>Confounders and Observational Studies</li>
-#       <li>Simpson's Paradox and Stratification</li>
-#     </ol>
-#   text: "<i>More details forthcoming...</i>"
+- date: "June 30"
+  week: "1"
+  type: "Homework"
+  summary: >-
+    <ol>
+      <li>Week 1 homework set that covers topics from lectures #1-4.</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">This is optional work but a great way to practice solving data science-related problems.</p>
+    <li style="text-align: left;"><a href="https://docs.google.com/document/d/109dyCJao1yIE8EUbGDZpx2Q8OP6Aq6vIoXYkspKLYw8/edit?usp=sharing" target="_blank">Homework #1</a></li>
+
+- date: "June 30"
+  week: "1"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Experimental Design, Blocking and pandas</li>
+      <li>Observational Studies, Confounders, and Stratification</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Observational studies have shown that people who carry lighters are more likely to get lung cancer. However, this does not mean that carrying lighters causes you to get cancer. Smoking is an obvious confounder! If we weren’t sure about this, how can we determine whether it’s the lighters or the confounders (or some combination of both) that is causing the lung cancer?
+    <br><br>Stratification is often called the "blocking of observational studies" and allows us to further explore observational studies by handling potential confounders.
+    <br><br>Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make copy, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1iG1kNzpT86jEU1Di7_8oub1Vq0mLzM1nEOenQ1WIzXY/edit?usp=sharing" target="_blank">Lecture #2 Handout</a></li>
+          <li><a href="https://docs.google.com/document/d/17ctz8EaTyrhLbH44H8FInd_Nr-0PNtngNj2LPZfGpzk/edit?usp=sharing" target="_blank">Lecture #3 Handout</a></li>
+        </ul>
+      </li>
+      <li>Complete the Hello Survey
+        <ul>
+          <li><a href="https://docs.google.com/forms/d/12ubOFbNFuqM9ZL6AU49I7W8luXQkRCYVuLixPSAulUc/edit?usp=sharing" target="_blank">Hello Survey</a></li>
+        </ul>
+      </li>
+    </ol>
 
 - date: "June 29"
   week: "1"
   type: "Lecture"
   summary: >-
     <ol>
+      <li>Data Structures & Data Science Tools</li>
       <li>Experimental Design, Blocking and pandas</li>
     </ol>
   text: >-
@@ -93,21 +121,28 @@ schedule:
   content: >-
     <ul>
       <li><a href="https://forms.gle/s5HbX5xDoPQt4UK86" target="_blank">Hello Survey</a></li>
-      <li><a href="https://docs.google.com/presentation/d/183Rw1fQgvkHMvuYqUK3WeOgGzhiNPCM_UXxtYKCqx7w/edit?usp=sharing" target="_blank">Lecture Slides</a></li>
-      <li><a href="https://docs.google.com/document/d/1jJgFQxz3LCtm1v3YT-O8BvGOVcs4z2CTZBxETRhnkwM/edit?usp=sharing" target="_blank">Lecture Handout</a></li>
+      <li><a href="https://docs.google.com/presentation/d/183Rw1fQgvkHMvuYqUK3WeOgGzhiNPCM_UXxtYKCqx7w/edit?usp=sharing" target="_blank">Lecture #1 Slides</a></li>
+      <li><a href="https://docs.google.com/document/d/1jJgFQxz3LCtm1v3YT-O8BvGOVcs4z2CTZBxETRhnkwM/edit?usp=sharing" target="_blank">Lecture #1 Handout</a></li>
     </ul>
   lab: ""
 
 - date: "June 29"
   week: "1"
   name: "Lecture #2: Experimental Design, Blocking and pandas"
-  content: ''
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1iG1kNzpT86jEU1Di7_8oub1Vq0mLzM1nEOenQ1WIzXY/edit?usp=sharing" target="_blank">Lecture #2 Handout</a></li>
+    </ul>
   lab: "Lab #1: Introduction"
 
 - date: "June 30"
   week: "1"
   name: "Lecture #3: Observational Studies, Confounders, and Stratification"
-  content: ''
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/17ctz8EaTyrhLbH44H8FInd_Nr-0PNtngNj2LPZfGpzk/edit?usp=sharing" target="_blank">Lecture #3 Handout</a></li>
+      <li><a href="https://docs.google.com/document/d/109dyCJao1yIE8EUbGDZpx2Q8OP6Aq6vIoXYkspKLYw8/edit?usp=sharing" target="_blank">Homework #1</a></li>
+    </ul>
   lab: "Lab #2: Pandas"
 
 - date: "July 1"

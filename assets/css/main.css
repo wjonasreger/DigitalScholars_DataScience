@@ -168,13 +168,13 @@ code {
   padding: 0 7%;
 }
 
-#course-syllabus h1, #course-schedule h1, #course-assignments h1, #course-resources h1 {
+#course-syllabus h1, #course-schedule h1, #course-assignments h1, #course-resources h1, #you-and-data-science h1 {
   font-weight: bold;
   font-size: 40px;
   color: #13294b;
 }
 
-#course-syllabus h2, #course-assignments h2, #course-resources h2 {
+#course-syllabus h2, #course-assignments h2, #course-resources h2, #you-and-data-science h2 {
   font-weight: bold;
   font-size: 30px;
   color: #13294b;
@@ -183,7 +183,7 @@ code {
   margin-top: 8px;
 }
 
-#course-syllabus li, #course-assignments li, #course-resources li, #course-schedule li {
+#course-syllabus li, #course-assignments li, #course-resources li, #course-schedule li, #you-and-data-science li {
   font-size: 15px;
   color: #13294b;
 }
@@ -455,22 +455,22 @@ iframe {
     font-size: 19px;
   }
   /* Information Pages Styling */
-  #course-syllabus h1, #course-schedule h1, #course-assignments h1, #course-resources h1 {
+  #course-syllabus h1, #course-schedule h1, #course-assignments h1, #course-resources h1, #you-and-data-science h1 {
     font-size: 25px;
   }
-  #course-syllabus h2, #course-assignments h2, #course-resources h2 {
+  #course-syllabus h2, #course-assignments h2, #course-resources h2, #you-and-data-science h2 {
     font-size: 20px;
   }
-  #course-syllabus h3, #course-assignments h3, #course-resources h3 {
+  #course-syllabus h3, #course-assignments h3, #course-resources h3, #you-and-data-science h3 {
     font-size: 15px;
   }
-  #course-syllabus li, #course-assignments li, #course-resources li {
+  #course-syllabus li, #course-assignments li, #course-resources li, #you-and-data-science li {
     font-size: 15px;
   }
   .syllabus {
     width: 100%;
   }
-  .course-syllabus.narrow, .course-schedule.narrow, .course-assignments.narrow, .course-resources.narrow {
+  .course-syllabus.narrow, .course-schedule.narrow, .course-assignments.narrow, .course-resources.narrow, .you-and-data-science.narrow {
     width: 100%;
     padding-top: 5px;
   }
@@ -479,7 +479,7 @@ iframe {
     padding-bottom: 1px;
     padding-top: 25px;
   }
-  .course-syllabus.narrow .card, .course-assignments.narrow .card, .course-resources.narrow .card {
+  .course-syllabus.narrow .card, .course-assignments.narrow .card, .course-resources.narrow .card, .you-and-data-science.narrow .card {
     padding: 0 30px;
     margin-bottom: -20px;
   }
