@@ -1,13 +1,32 @@
 announcements:
-# - date: "July 1"
-#   week: "1"
-#   type: "Lecture"
-#   summary: >-
-#     <ol>
-#       <li>Measures of Center and Spread</li>
-#       <li>Boolean Logic and Conditionals</li>
-#     </ol>
-#   text: "<i>More details forthcoming...</i>"
+- date: "July 1"
+  week: "1"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Measures of Center and Spread</li>
+      <li>Boolean Logic and Conditionals</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Parameters are numerical facts about the population. In this lecture, we will look at parameters such as the average (µ) and standard deviation (σ) of a list of numbers. Later, we will start talking about statistics. Statistics are estimates of parameters computed from a sample.
+    <br><br>Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make copy, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1krf7_5wRWVYSV_6Ohd2hgyygPQw3SvqEhVATiva1D4k/edit?usp=sharing" target="_blank">Lecture #4 Handout</a></li>
+        </ul>
+      </li>
+      <li>We will begin working on our capstone projects today! :)
+        <ul>
+          <a href='https://wjonasreger.github.io/DigitalScholars_DataScience/pages/project.html'>Project: Introduction</a>
+        </ul>
+      </li>
+      <li>Last chance to complete the Hello Survey!
+        <ul>
+          <li><a href="https://docs.google.com/forms/d/12ubOFbNFuqM9ZL6AU49I7W8luXQkRCYVuLixPSAulUc/edit?usp=sharing" target="_blank">Hello Survey</a></li>
+        </ul>
+      </li>
+    </ol>
 
 - date: "June 30"
   week: "1"
@@ -148,8 +167,11 @@ schedule:
 - date: "July 1"
   week: "1"
   name: "Lecture #4: Measures of Center and Spread, Boolean Logic, and Conditionals"
-  content: ''
-  lab: "Project: Introduction"
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1krf7_5wRWVYSV_6Ohd2hgyygPQw3SvqEhVATiva1D4k/edit?usp=sharing" target="_blank">Lecture #4 Handout</a></li>
+    </ul>
+  lab: "<a href='https://wjonasreger.github.io/DigitalScholars_DataScience/pages/project.html'>Project: Introduction</a>"
 
 - date: "July 5"
   week: "2"
