@@ -22,8 +22,10 @@ Discovering Data Science is an introduction to topics that intersect between sta
 ## Instructor Contact Information
 
 * Lead Instructor: Jonas Reger
-Email: <a href="mailto:wreger2@illinois.edu">wreger2@illinois.edu</a>
+  Email: <a href="mailto:wreger2@illinois.edu">wreger2@illinois.edu</a>
+  LinkedIn: <a href="https://www.linkedin.com/in/wjonasreger/">wjonasreger</a>
 * Assistant Instructor: Tamun Hanjra
+  LinkedIn: <a href="https://www.linkedin.com/in/tamunhanjra/">tamunhanjra</a>
 
 ## Office Hours
 
