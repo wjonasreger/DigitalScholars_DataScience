@@ -7,8 +7,8 @@ title: course-schedule
 ---
 
 {% include course_schedule.html week='1' %}
-<!-- {% include course_schedule.html week='2' %}
-{% include course_schedule.html week='3' %}
+{% include course_schedule.html week='2' %}
+<!-- {% include course_schedule.html week='3' %}
 {% include course_schedule.html week='4' %}
 {% include course_schedule.html week='5' %} -->
 

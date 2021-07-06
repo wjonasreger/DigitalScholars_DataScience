@@ -18,6 +18,7 @@ title: course-resources
 
 ### Illinois-Specific Datasets
 
+* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/clean-hello-discover.csv" target="_blank">Hello Survey Dataset (Discover 2021)</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/hello-stat107-f19.csv" target="_blank">Hello Survey Dataset (STAT 107 F19)</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/probability-words.csv" target="_blank">Perception of Probability Words Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/courses.csv" target="_blank">Course Catalog Dataset</a>
@@ -58,17 +59,8 @@ title: course-resources
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/sales-data.csv" target="_blank">Sales Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/superhero.csv" target="_blank">Superhero Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/weather-2012.csv" target="_blank">Weather Dataset</a>
-
-### Jonas' Datasets
-
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/nintendo-game-prices.csv" target="_blank">Nintendo Summer Sale Dataset</a>
-
-### Artificial Datasets
-
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/black-dog-reviews.csv" target="_blank">Black Dog Reviews Dataset</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/papa-dels-reviews.csv" target="_blank">Papa Dells Reviews</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/message-app-data.csv" target="_blank">Message App Dataset I</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/sample-message.csv" target="_blank">Message App Dataset II</a>
+* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/sample-message.csv" target="_blank">Message App Dataset</a>
 
 ## Other Guides
 <hr/>

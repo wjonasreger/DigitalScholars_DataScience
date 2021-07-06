@@ -1,4 +1,36 @@
 announcements:
+- date: "July 6"
+  week: "2"
+  type: "Homework"
+  summary: >-
+    <ol>
+      <li>Week 2 homework set that covers topics from lectures #5-7.</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">This is optional work but a great way to practice solving data science-related problems. Posted in the "Data Science Homework" Google Drive Folder.</p>
+
+- date: "July 6"
+  week: "2"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Exploratory Data Analysis: Summary Statistics and Grouping Data</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">A groupby operation involves some combination of splitting the object, applying a function, and combining the results. This can be used to group large amounts of data and compute operations on these groups.
+    <br><br>Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make copy, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1_qe9dx2v3NMpf2Gz0PZ5kEJY5nawn9WFaEwTFdLFens/edit?usp=sharing" target="_blank">Lecture #5 Handout</a></li>
+        </ul>
+      </li>
+      <li>Here's a cleaned dataset generated from our "Hello" Survey!
+        <ul>
+          <li><a href="https://github.com/wjonasreger/datasets/blob/main/datasets/clean-hello-discover.csv" target="_blank">Hello Survey Dataset</a></li>
+        </ul>
+      </li>
+    </ol>
 - date: "July 1"
   week: "1"
   type: "Lecture"
@@ -182,20 +214,25 @@ schedule:
 - date: "July 6"
   week: "2"
   name: "Lecture #5: EDA: Summary Statistics and Grouping Data"
-  content: ''
-  lab: "<b>lab4_gpa</b>"
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1_qe9dx2v3NMpf2Gz0PZ5kEJY5nawn9WFaEwTFdLFens/edit?usp=sharing" target="_blank">Lecture #5 Handout</a></li>
+      <li>Homework #2 is posted in "Data Science Homework" Google Drive Folder</li>
+      <li><a href="https://github.com/wjonasreger/datasets/blob/main/datasets/clean-hello-discover.csv">Hello Dataset</a></li>
+    </ul>
+  lab: ""
 
 - date: "July 7"
   week: "2"
   name: "Lecture #6: EDA: Plots"
   content: ''
-  lab: "<b>lab5_plots</b>"
+  lab: "Lab #3: Simpson's Paradox & Grouping Data"
 
 - date: "July 8"
   week: "2"
   name: "Lecture #7: Algorithms and Introduction to Probability"
   content: ''
-  lab: "project part #2: <b>project_eda</b>"
+  lab: "Project: Analysis Question & Exploring your Dataset"
 
 - date: "July 12"
   week: "3"
