@@ -1,4 +1,22 @@
 announcements:
+- date: "July 7"
+  week: "2"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Exploratory Data Analysis: Plots</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Large tables of numbers can be difficult to interpret, no matter how organized they are. Sometimes it is much easier to interpret graphs than numbers. Histograms and box plots are used as a way to visually represent numerical data.
+    <br><br>Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1D-qDPUfLnKjt5KMaTYX2ufbtR-Ahv4iueTD6kMe04nM/edit?usp=sharing" target="_blank">Lecture #6 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
 - date: "July 6"
   week: "2"
   type: "Homework"
@@ -225,7 +243,10 @@ schedule:
 - date: "July 7"
   week: "2"
   name: "Lecture #6: EDA: Plots"
-  content: ''
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1D-qDPUfLnKjt5KMaTYX2ufbtR-Ahv4iueTD6kMe04nM/edit?usp=sharing" target="_blank">Lecture #6 Handout</a></li>
+    </ul>
   lab: "Lab #3: Simpson's Paradox & Grouping Data"
 
 - date: "July 8"
