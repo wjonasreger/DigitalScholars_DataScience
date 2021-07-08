@@ -1,4 +1,23 @@
 announcements:
+- date: "July 8"
+  week: "2"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Algorithms and Probability</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">How would you explain to someone in detail how you put on your shirt? An algorithm is a step-by-step, detailed set of instructions to solve a problem, which can be expressed as English sentences (usually as a numbered list) and is a great way to begin solving complex problems.
+    <br>Probability is the likelihood or chance of an event occurring. This begins a multi-week journey discovering probability and how to simulate probabilistic events.
+    <br><br>Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1GraO9LGKGa4jrXAY3VVWQM8Opc6oJcngzp2C7j9UW3c/edit?usp=sharing" target="_blank">Lecture #7 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
 - date: "July 7"
   week: "2"
   type: "Lecture"
