@@ -1,4 +1,32 @@
 announcements:
+- date: "July 12"
+  week: "3"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Probability, Control Flow and Simulations</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">
+    <br><br>Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/13U67edQewMVSVC7tieo6io1qABl9VZWe0T6G0GAW0a8/edit?usp=sharing" target="_blank">Lecture #8 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
+- date: "July 12"
+  week: "3"
+  type: "Homework"
+  summary: >-
+    <ol>
+      <li>Week 3 homework set that covers topics from lectures #8-11.</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">This is optional work but a great way to practice solving data science-related problems. Posted in the "Data Science Homework" Google Drive Folder.</p>
+
 - date: "July 8"
   week: "2"
   type: "Lecture"
@@ -106,7 +134,7 @@ announcements:
     </ol>
   text: >-
     <p style="text-align: left;">This is optional work but a great way to practice solving data science-related problems.</p>
-    <li style="text-align: left;"><a href="https://docs.google.com/document/d/109dyCJao1yIE8EUbGDZpx2Q8OP6Aq6vIoXYkspKLYw8/edit?usp=sharing" target="_blank">Homework #1</a></li>
+    <li style="text-align: left;">This is optional work but a great way to practice solving data science-related problems. Posted in the "Data Science Homework" Google Drive Folder.</li>
 
 - date: "June 30"
   week: "1"
@@ -271,32 +299,38 @@ schedule:
 - date: "July 8"
   week: "2"
   name: "Lecture #7: Algorithms and Introduction to Probability"
-  content: ''
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1GraO9LGKGa4jrXAY3VVWQM8Opc6oJcngzp2C7j9UW3c/edit?usp=sharing" target="_blank">Lecture #7 Handout</a></li>
+    </ul>
   lab: "Project: Analysis Question & Exploring your Dataset"
 
 - date: "July 12"
   week: "3"
   name: "Lecture #8: Probability, Control Flow and Simulation in Python"
-  content: ''
-  lab: "<b>lab6_simulation</b>"
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/13U67edQewMVSVC7tieo6io1qABl9VZWe0T6G0GAW0a8/edit?usp=sharing" target="_blank">Lecture #8 Handout</a></li>
+    </ul>
+  lab: ''
 
 - date: "July 13"
   week: "3"
   name: "Lecture #9: Functions in Python, Conditional Probability and Bayes Rule"
   content: ''
-  lab: "<b>lab7_birthday</b>"
+  lab: "Lab 4: Plots & Simulations"
 
 - date: "July 14"
   week: "3"
   name: "Lecture #10: Simulation Analysis, Images and Ethics in Data Science"
   content: ''
-  lab: "Project Part #3: <b>project_simulation-analysis</b>"
+  lab: "Lab 5: Birthday"
 
 - date: "July 15"
   week: "3"
-  name: "Lecture #11: Discrete Random Variables, Distributions and Normal Approximation"
+  name: "TBD"
   content: ''
-  lab: "<b>lab8_random-variable</b><br>Extra Lab (Optional): <b>lab_image-mosaic</b>"
+  lab: "Project"
 
 - date: "July 19"
   week: "4"

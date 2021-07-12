@@ -7,7 +7,7 @@ title: you-and-data-science
 ---
 
 ## Capstone Project: You and Data Science
-**Due:** Wednesday, July 29, 2021 at 6 pm CDT
+**Due:** Tuesday, July 27, 2021 at 6 pm CDT
 
 Throughout this semester, you have grown into an amazing Data Scientist! You are analyzing datasets in Python, performing advanced statistical tests, and finding the answers to complex questions using data. You have seen dozens of datasets we have provided. For the final project, we want you to teach us something about your Chicago community - we want to learn about something you are passionate about!
 
@@ -38,12 +38,7 @@ Our hope is that you will use a dataset you are passionate about that relates to
 * <a href="https://datasetsearch.research.google.com/" target="_blank">Google Dataset Search</a>
 * <a href="https://www.kaggle.com/" target="_blank">Kaggle</a>
 * <a href="https://www.data.gov/" target="_blank">Data.Gov (U.S. Open Data)</a>
-<!-- * <a href="https://earthdata.nasa.gov/" target="_blank">Earth Data</a> -->
-<!-- * <a href="https://www.who.int/data/gho" target="_blank">Global Health Observatory Data Repository</a> -->
 * <a href="https://crime-data-explorer.fr.cloud.gov/pages/home" target="_blank">FBI Crime Data Explorer</a>
-<!-- * <a href="https://www.pewresearch.org/download-datasets/" target="_blank">Pew Research Center</a> -->
-<!-- * <a href="https://www.ncdc.noaa.gov/cdo-web/datasets" target="_blank">Climate Data Online</a> -->
-<!-- * <a href="https://www.cdc.gov/DataStatistics/" target="_blank">CDC Data & Statistics</a> -->
 
 
 <hr/>
@@ -60,9 +55,7 @@ Feel free to include images, diagrams, figures, etc! The only requirement is tha
 4. Your audience is going to be the class. You do not need to explain Python or Data Science to us, but you should not assume we know anything about your specific interest/passion.
 5. Your report must include four sections *(This only needs to be at least one page with at least half a page being text)*:
     1. Introduction: Why is the dataset important to you? What do you want to discover about it?
-        * Must include source of the dataset and two sources relating to the topic (i.e. news article, research publication, social media post, etc.)
-        * E.g. If I wanted to analyze a dataset about Art in Chicago Parks, then I would cite where I found the dataset, and two sources relating to art in Chicago parks, public spaces, art initiatives, etc. It can be about anything that relates to your interest that drew you to the dataset.
-        * You can choose any citation style (e.g. MLA, APA, etc.)
+        * Must include source of the dataset.
     2. Methods: Briefly summarize what steps you took to analyze the data. This would include processing, cleaning, modifying, grouping, using algorithms, etc. - write about what you did but keep it concise.
     3. Results: A summary of the exciting discovery you made! This will be when you write about your discovery - you can show any interesting plots here as well.
     4. Conclusion: What would you like to do next? Did this analysis inspire you to go and discover new things? Tell us about the next analysis you'd like to do! (It can be about the same topic or even a new one that this project got you thinking about!)
@@ -70,17 +63,17 @@ Feel free to include images, diagrams, figures, etc! The only requirement is tha
 <hr/>
 
 ### Project Presentation
-You need to prepare a short 4-6 minute presentation (i.e. google slides, prezi, or any other presentation tool you wnat to use) to share your exciting discovery with your class! You don't have to explain any of the Python or Data Science to us, but you should not assume we know anything about your specific interest/passion.
+You need to prepare a short 2-5 minute presentation (i.e. google slides, prezi, or any other presentation tool you wnat to use) to share your exciting discovery with your class! You don't have to explain any of the Python or Data Science to us, but you should not assume we know anything about your specific interest/passion.
 
 <hr/>
 
 ### Submission
 When you are ready to submit, there are three things you will submit.
-1. Dataset
+1. Dataset Source Link
 2. Code
 3. Report
 
-You can submit or share your deliverables in any method you prefer (i.e. Google Drive link, GitHub, or other methods) but you must make a submission in Blackboard indicating the method with your files or link if applicable. If submission fails, then email your files or link to Jonas at <a href="mailto:wreger2@illinois.edu">wreger2@illinois.edu</a>
+You can submit or share your deliverables in any method you prefer (i.e. Google Drive link, GitHub, or other methods) but you must make a submission in Gradescope indicating the method with your files or link if applicable. If submission fails, then email your files or link to Jonas at <a href="mailto:wreger2@illinois.edu">wreger2@illinois.edu</a>
 
 We can’t wait to read your project and see your presentation! :)
 
@@ -92,4 +85,4 @@ Once you have submitted your project and recieved feedback, you can upload your 
 
 <hr/>
 
-*Modified from <a href="http://courses.las.illinois.edu/spring2020/stat107/resources/cli/">Wade Fagen-Ulmschneider & Karle Flanagan’s STAT 107 - Fall 2019/Spring 2020 guides</a> with permission.*
+*Modified from <a href="http://courses.las.illinois.edu/fall2019/stat107/projects/final-project.html">Wade Fagen-Ulmschneider & Karle Flanagan’s STAT 107 - Fall 2019/Spring 2020 guides</a> with permission.*

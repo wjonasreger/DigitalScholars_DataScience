@@ -41,26 +41,16 @@ title: course-resources
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/fifa19.csv" target="_blank">FIFA19 Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/pokemon.csv" target="_blank">Pokemon Dataset</a>
 
-### US Datasets
-
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/311-service-requests.csv" target="_blank">NYC 311 Service Dataset</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/baby-names.csv" target="_blank">Baby Names Dataset</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/dataa.csv" target="_blank">State Expenditure Dataset</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/us-baby-names.csv" target="_blank">US Baby Names Dataset</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/us-state-births.csv" target="_blank">US State Births</a>
-
 ### Other Datasets
 
+* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/311-service-requests.csv" target="_blank">NYC 311 Service Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/aaron-rodgers.csv" target="_blank">Aaron Rodgers Dataset</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/exit-survey-jan-2014.csv" target="_blank">Exit Survey Dataset</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/hr-employee-attrition.csv" target="_blank">HR Employee Attrition Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/online-retail.csv" target="_blank">Online Retail Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/political-leaders.csv" target="_blank">Political Leaders Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/sales-data.csv" target="_blank">Sales Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/superhero.csv" target="_blank">Superhero Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/weather-2012.csv" target="_blank">Weather Dataset</a>
 * <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/nintendo-game-prices.csv" target="_blank">Nintendo Summer Sale Dataset</a>
-* <a href="https://raw.githubusercontent.com/wjonasreger/datasets/main/datasets/sample-message.csv" target="_blank">Message App Dataset</a>
 
 ## Other Guides
 <hr/>
