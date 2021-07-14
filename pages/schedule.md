@@ -18,6 +18,6 @@ title: course-schedule
 
 <p class="week-sub">Week 3 Topics: Probability, Control Flow, Simulations, Ethics, Random Variables</p> -->
 
-<p class="week-sub">Week 4 Topics: Central Limit Theorem, Sampling, Confidence Intervals, Machine Learning</p>
+<p class="week-sub">Week 4 Topics: Normal Distribution, Central Limit Theorem, Sampling, Linear Regression, Hypothesis Testing</p>
 
-<p class="week-sub">Week 5 Topics: Hypothesis Testing, Randomization Tests, Other Topics, Project Presentations</p>
+<p class="week-sub">Week 5 Topics: Surprise Topic, Your Future, Data Storytelling, Project Presentations</p>

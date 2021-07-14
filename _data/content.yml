@@ -1,4 +1,38 @@
 announcements:
+- date: "July 14"
+  week: "3"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Simulation Analysis, Errors and Ethics in Data Science</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/140FVQCg6QL5A14yqR0oVZ90f1VElQpdQLktLhDk2F1g/edit?usp=sharing" target="_blank">Lecture #10 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
+- date: "July 13"
+  week: "3"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Functions in Python, Conditional Probability and Bayes Rules</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/146nTKiCy6wLpcYVzFB4-rKz8ZQRkoqCsSykU-7P7J78/edit?usp=sharing" target="_blank">Lecture #9 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
 - date: "July 12"
   week: "3"
   type: "Lecture"
@@ -132,8 +166,7 @@ announcements:
       <li>Week 1 homework set that covers topics from lectures #1-4.</li>
     </ol>
   text: >-
-    <p style="text-align: left;">This is optional work but a great way to practice solving data science-related problems.</p>
-    <li style="text-align: left;">This is optional work but a great way to practice solving data science-related problems. Posted in the "Data Science Homework" Google Drive Folder.</li>
+    <p style="text-align: left;">This is optional work but a great way to practice solving data science-related problems. Posted in the "Data Science Homework" Google Drive Folder.</p>
 
 - date: "June 30"
   week: "1"
@@ -316,20 +349,26 @@ schedule:
 - date: "July 13"
   week: "3"
   name: "Lecture #9: Functions in Python, Conditional Probability and Bayes Rule"
-  content: ''
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/146nTKiCy6wLpcYVzFB4-rKz8ZQRkoqCsSykU-7P7J78/edit?usp=sharing" target="_blank">Lecture #9 Handout</a></li>
+    </ul>
   lab: "Lab 4: Plots & Simulations"
 
 - date: "July 14"
   week: "3"
-  name: "Lecture #10: Simulation Analysis, Images and Ethics in Data Science"
-  content: ''
+  name: "Lecture #10: Simulation Analysis, Errors and Ethics in Data Science"
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/140FVQCg6QL5A14yqR0oVZ90f1VElQpdQLktLhDk2F1g/edit?usp=sharing" target="_blank">Lecture #10 Handout</a></li>
+    </ul>
   lab: "Lab 5: Birthday"
 
 - date: "July 15"
   week: "3"
-  name: "TBD"
+  name: "Lecture #11: Object-oriented Programming, Random Variables and Distributions"
   content: ''
-  lab: "Project"
+  lab: "Project Demo"
 
 - date: "July 19"
   week: "4"
