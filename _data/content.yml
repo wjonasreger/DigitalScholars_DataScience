@@ -1,4 +1,55 @@
 announcements:
+- date: "July 20"
+  week: "4"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Normal Approximation, Central Limit Theorem, and Sampling</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/13hYWPv5_aTCYX8J6At9O9xDwzXi-drsMglZGuUUo0A0/edit?usp=sharing" target="_blank">Lecture #12 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
+- date: "July 19"
+  week: "4"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Discrete Random Variables, Distributions and Normal Approximation</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1ITM3G24bD0HFf0olTiOFt7unlRQUi3cVui0xedUoU74/edit?usp=sharing" target="_blank">Lecture #12 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
+- date: "July 15"
+  week: "3"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Object-oriented Programming, Random Variables and Distributions</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1_0n9Lcsj5pKtSmRTRTUlEANPbb12fkvkshn39qccoZ0/edit?usp=sharing" target="_blank">Lecture #11 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
 - date: "July 14"
   week: "3"
   type: "Lecture"
@@ -367,32 +418,47 @@ schedule:
 - date: "July 15"
   week: "3"
   name: "Lecture #11: Object-oriented Programming, Random Variables and Distributions"
-  content: ''
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1_0n9Lcsj5pKtSmRTRTUlEANPbb12fkvkshn39qccoZ0/edit?usp=sharing" target="_blank">Lecture #11 Handout</a></li>
+    </ul>
   lab: "Project Demo"
 
 - date: "July 19"
   week: "4"
-  name: "Lecture #12: Central Limit Theorem, Sampling and Resampling"
-  content: ''
-  lab: "<b>lab9_clt</b>"
+  name: "Lecture #12: Discrete Random Variables, Distributions and Normal Approximation"
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1ITM3G24bD0HFf0olTiOFt7unlRQUi3cVui0xedUoU74/edit?usp=sharing" target="_blank">Lecture #12 Handout</a></li>
+    </ul>
+  lab: "Lab #6: Random Variables"
 
 - date: "July 20"
   week: "4"
-  name: "Lecture #13: Confidence Intervals, Data Types, and Bootstrap"
-  content: ''
-  lab: "<b>lab10_lists</b>"
+  name: "Lecture #13: Normal Approximation, Central Limit Theorem, and Sampling"
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/13hYWPv5_aTCYX8J6At9O9xDwzXi-drsMglZGuUUo0A0/edit?usp=sharing" target="_blank">Lecture #13 Handout</a></li>
+    </ul>
+  lab: "Data Science CREATIVITY Workshop"
 
 - date: "July 21"
   week: "4"
-  name: "Lecture #14: Linear Regression: Scatter Plots, Correlation, and Residuals"
-  content: ''
-  lab: "<b>lab11_regression</b>"
+  name: "Lecture #14: Confidence Intervals, Data Types, and Linear Regression"
+  content: >-
+    <ul>
+      <li><a href="" target="_blank">Lecture #14 Handout</a></li>
+    </ul>
+  lab: ""
 
 - date: "July 22"
   week: "4"
-  name: "Lecture #15: Linear Regression: Residuals and RMSE"
-  content: ''
-  lab: "Project Part #4: <b>project_model</b>"
+  name: "Lecture #15: Linear Regression"
+  content: >-
+    <ul>
+      <li><a href="" target="_blank">Lecture #15 Handout</a></li>
+    </ul>
+  lab: ""
 
 - date: "July 26"
   week: "5"
