@@ -1,4 +1,65 @@
 announcements:
+- date: "July 26"
+  week: "5"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Logistic Regression, K-Means Clustering, and Hypothesis Testing</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1HYPDdlGbt1ji9pGvnsE9YqngBFMxfKdYBRvJQGUq5QA/edit?usp=sharing" target="_blank">Lecture #16 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
+- date: "July 26"
+  week: "5"
+  type: "Homework"
+  summary: >-
+    <ol>
+      <li>Week 4 & 5 homework set that covers topics from lectures #12-17.</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">This is optional work but a great way to practice solving data science-related problems. Posted in the "Data Science Homework" Google Drive Folder.</p>
+
+- date: "July 22"
+  week: "4"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Linear Regression: Scatter Plots, Correlation, and Residuals</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1sBnVPtP8THDXOwguamfxcBYss1wjpC5tsqhqKqGyNV0/edit?usp=sharing" target="_blank">Lecture #15 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
+- date: "July 21"
+  week: "4"
+  type: "Lecture"
+  summary: >-
+    <ol>
+      <li>Confidence Intervals, Data Types, and Regression</li>
+    </ol>
+  text: >-
+    <p style="text-align: left;">Don't forget:</p>
+    <ol style="text-align: left;">
+      <li>Make a copy of, download or print the lecture notes!
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1Qbl0CvOl7tGwbivjt-Wb4I4e1v3FmfMKxInBDRZGVAA/edit?usp=sharing" target="_blank">Lecture #14 Handout</a></li>
+        </ul>
+      </li>
+    </ol>
+
 - date: "July 20"
   week: "4"
   type: "Lecture"
@@ -11,7 +72,7 @@ announcements:
     <ol style="text-align: left;">
       <li>Make a copy of, download or print the lecture notes!
         <ul>
-          <li><a href="https://docs.google.com/document/d/13hYWPv5_aTCYX8J6At9O9xDwzXi-drsMglZGuUUo0A0/edit?usp=sharing" target="_blank">Lecture #12 Handout</a></li>
+          <li><a href="https://docs.google.com/document/d/13hYWPv5_aTCYX8J6At9O9xDwzXi-drsMglZGuUUo0A0/edit?usp=sharing" target="_blank">Lecture #13 Handout</a></li>
         </ul>
       </li>
     </ol>
@@ -447,36 +508,39 @@ schedule:
   name: "Lecture #14: Confidence Intervals, Data Types, and Linear Regression"
   content: >-
     <ul>
-      <li><a href="" target="_blank">Lecture #14 Handout</a></li>
+      <li><a href="https://docs.google.com/document/d/1Qbl0CvOl7tGwbivjt-Wb4I4e1v3FmfMKxInBDRZGVAA/edit?usp=sharing" target="_blank">Lecture #14 Handout</a></li>
     </ul>
   lab: ""
 
 - date: "July 22"
   week: "4"
-  name: "Lecture #15: Linear Regression"
+  name: "#15: Linear Regression: Scatter Plots, Correlation, and Residuals"
   content: >-
     <ul>
-      <li><a href="" target="_blank">Lecture #15 Handout</a></li>
+      <li><a href="https://docs.google.com/document/d/1sBnVPtP8THDXOwguamfxcBYss1wjpC5tsqhqKqGyNV0/edit?usp=sharing" target="_blank">Lecture #15 Handout</a></li>
     </ul>
   lab: ""
 
 - date: "July 26"
   week: "5"
-  name: "Lecture #16: Hypothesis Testing: Z Tests"
-  content: ''
-  lab: "<b>lab12_kmeans</b>"
+  name: "Lecture #16: Logistic Regression, K-Means Clustering, and Hypothesis Testing"
+  content: >-
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1HYPDdlGbt1ji9pGvnsE9YqngBFMxfKdYBRvJQGUq5QA/edit?usp=sharing" target="_blank">Lecture #16 Handout</a></li>
+    </ul>
+  lab: ""
 
 - date: "July 27"
   week: "5"
-  name: "Lecture #17: Hypothesis Testing: t-tests, A/B Testing, and Randomization Tests"
+  name: "Lecture #17: Hypothesis Testing and A/B Testing"
   content: ''
-  lab: "<b>lab13_hypothesis-tests</b>"
+  lab: ""
 
 - date: "July 28"
   week: "5"
-  name: "Lecture #18: Machine Learning & Data Science Storytelling"
+  name: "Lecture #18: TBD"
   content: ''
-  lab: "Project Part #5: <b>project_conclusion</b>"
+  lab: "<b>Project Presentations! :)</b>"
 
 - date: "July 29"
   week: "5"

@@ -43,6 +43,7 @@ layout: default
     </div>
     <div class="py-4">
       <div class="row text-center">
+        {% include class_cards.html week='5' %}
         {% include class_cards.html week='4' %}
         {% include class_cards.html week='3' %}
         {% include class_cards.html week='2' %}

@@ -65,6 +65,8 @@ Feel free to include images, diagrams, figures, etc! The only requirement is tha
 ### Project Presentation
 You need to prepare a short 2-5 minute presentation (i.e. google slides, prezi, or any other presentation tool you wnat to use) to share your exciting discovery with your class! You don't have to explain any of the Python or Data Science to us, but you should not assume we know anything about your specific interest/passion.
 
+Presentations will take place during the last two days of classes (i.e. Wednesday and Thursday, July 28-29). Time of presentations will be announced later.
+
 <hr/>
 
 ### Submission
